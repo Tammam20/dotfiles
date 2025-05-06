@@ -25,4 +25,3 @@ fi
 unset rc
 alias cls=clear
 alias la="ls -al"
-alias ll="ls -ll"
