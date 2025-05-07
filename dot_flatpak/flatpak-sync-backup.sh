@@ -1,6 +1,8 @@
-#!/bin/bash
 flatpak install flathub com.google.Chrome -y
+flatpak install flathub com.mattjakeman.ExtensionManager -y
+flatpak install flathub com.valvesoftware.Steam -y
 flatpak install flathub io.github.celluloid_player.Celluloid -y
+flatpak install flathub io.github.dvlv.boxbuddyrs -y
 flatpak install fedora org.fedoraproject.MediaWriter -y
 flatpak install fedora org.gnome.Calculator -y
 flatpak install fedora org.gnome.Calendar -y
@@ -23,3 +25,5 @@ flatpak install fedora org.gnome.font-viewer -y
 flatpak install fedora org.gnome.seahorse.Application -y
 flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub org.telegram.desktop -y
+flatpak install flathub org.vinegarhq.Sober -y
+flatpak install flathub xyz.xclicker.xclicker -y
