@@ -1,3 +1,4 @@
+#!/bin/bash
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install fedora org.fedoraproject.MediaWriter -y
