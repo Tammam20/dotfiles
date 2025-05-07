@@ -23,6 +23,11 @@ if [ -d ~/.bashrc.d ]; then
     done
 fi
 unset rc
+
+export PATH="$PATH:~/.cargo/bin"
+# xremap bash completion
+eval "$(xremap --completions bash)"
+# aliases
 alias cls=clear
 alias la="ls -al"
 alias ll="ls -ll"
