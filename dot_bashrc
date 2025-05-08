@@ -31,3 +31,4 @@ eval "$(xremap --completions bash)"
 alias cls=clear
 alias la="ls -al"
 alias ll="ls -ll"
+alias ff="fastfetch"
