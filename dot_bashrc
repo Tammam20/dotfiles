@@ -32,4 +32,4 @@ alias cls=clear
 alias ff=fastfetch
 alias cz=chezmoi
 alias la="ls -al"
-alias ll="ls -ll"
+alias ll="ls -al"
