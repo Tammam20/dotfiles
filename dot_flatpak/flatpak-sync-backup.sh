@@ -1,31 +1,31 @@
-flatpak install flathub com.google.Chrome -y
-flatpak install flathub com.mattjakeman.ExtensionManager -y
-flatpak install flathub com.transmissionbt.Transmission -y
-flatpak install flathub com.valvesoftware.Steam -y
-flatpak install flathub io.github.celluloid_player.Celluloid -y
-flatpak install flathub io.github.dvlv.boxbuddyrs -y
-flatpak install fedora org.fedoraproject.MediaWriter -y
-flatpak install fedora org.gnome.Calculator -y
-flatpak install fedora org.gnome.Calendar -y
-flatpak install fedora org.gnome.Characters -y
-flatpak install fedora org.gnome.Connections -y
-flatpak install fedora org.gnome.Contacts -y
-flatpak install fedora org.gnome.Evince -y
-flatpak install fedora org.gnome.Extensions -y
-flatpak install flathub org.gnome.Geary -y
-flatpak install fedora org.gnome.Logs -y
-flatpak install fedora org.gnome.Loupe -y
-flatpak install fedora org.gnome.Maps -y
-flatpak install fedora org.gnome.NautilusPreviewer -y
-flatpak install fedora org.gnome.Snapshot -y
-flatpak install fedora org.gnome.TextEditor -y
-flatpak install fedora org.gnome.Weather -y
-flatpak install fedora org.gnome.baobab -y
-flatpak install fedora org.gnome.clocks -y
-flatpak install fedora org.gnome.font-viewer -y
-flatpak install fedora org.gnome.seahorse.Application -y
-flatpak install flathub org.keepassxc.KeePassXC -y
-flatpak install flathub org.libreoffice.LibreOffice -y
-flatpak install flathub org.telegram.desktop -y
-flatpak install flathub org.vinegarhq.Sober -y
-flatpak install flathub xyz.xclicker.xclicker -y
+flatpak install com.google.Chrome -y
+flatpak install com.mattjakeman.ExtensionManager -y
+flatpak install com.transmissionbt.Transmission -y
+flatpak install com.valvesoftware.Steam -y
+flatpak install io.github.celluloid_player.Celluloid -y
+flatpak install io.github.dvlv.boxbuddyrs -y
+flatpak install org.fedoraproject.MediaWriter -y
+flatpak install org.gnome.Calculator -y
+flatpak install org.gnome.Calendar -y
+flatpak install org.gnome.Characters -y
+flatpak install org.gnome.Connections -y
+flatpak install org.gnome.Contacts -y
+flatpak install org.gnome.Evince -y
+flatpak install org.gnome.Extensions -y
+flatpak install org.gnome.Geary -y
+flatpak install org.gnome.Logs -y
+flatpak install org.gnome.Loupe -y
+flatpak install org.gnome.Maps -y
+flatpak install org.gnome.NautilusPreviewer -y
+flatpak install org.gnome.Snapshot -y
+flatpak install org.gnome.TextEditor -y
+flatpak install org.gnome.Weather -y
+flatpak install org.gnome.baobab -y
+flatpak install org.gnome.clocks -y
+flatpak install org.gnome.font-viewer -y
+flatpak install org.gnome.seahorse.Application -y
+flatpak install org.keepassxc.KeePassXC -y
+flatpak install org.libreoffice.LibreOffice -y
+flatpak install org.telegram.desktop -y
+flatpak install org.vinegarhq.Sober -y
+flatpak install xyz.xclicker.xclicker -y
