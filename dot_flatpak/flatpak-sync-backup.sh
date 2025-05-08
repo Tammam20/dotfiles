@@ -1,3 +1,4 @@
+flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub com.mattjakeman.ExtensionManager -y
 flatpak install flathub com.transmissionbt.Transmission -y
@@ -12,6 +13,7 @@ flatpak install flathub org.gnome.Connections -y
 flatpak install flathub org.gnome.Contacts -y
 flatpak install flathub org.gnome.Evince -y
 flatpak install flathub org.gnome.Extensions -y
+flatpak install flathub org.gnome.Firmware -y
 flatpak install flathub org.gnome.Geary -y
 flatpak install flathub org.gnome.Logs -y
 flatpak install flathub org.gnome.Loupe -y
