@@ -1,4 +1,5 @@
 flatpak install flathub ca.desrt.dconf-editor -y
+flatpak install flathub com.github.Matoking.protontricks -y
 flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub com.mattjakeman.ExtensionManager -y
