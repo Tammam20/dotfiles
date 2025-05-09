@@ -30,6 +30,7 @@ eval "$(xremap --completions bash)"
 # aliases
 alias cls=clear
 alias ff=fastfetch
+alias steam="flatpak run com.valvesoftware.Steam"
 alias flatup="sh ~/.flatpak/flatpak-sync-backup-gen.sh && chezmoi re-add ~/.flatpak/flatpak-sync-backup.sh"
 alias flated="nano ~/.flatpak/flatpak-sync-backup-gen.sh && chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh"
 alias rced="nano ~/.bashrc && chezmoi re-add ~/.bashrc"
