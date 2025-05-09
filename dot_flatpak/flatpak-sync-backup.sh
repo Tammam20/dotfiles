@@ -1,3 +1,4 @@
+flatpak install flathub ca.desrt.dconf-editor -y
 flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub com.mattjakeman.ExtensionManager -y
@@ -5,6 +6,7 @@ flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub com.valvesoftware.Steam -y
 flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.dvlv.boxbuddyrs -y
+flatpak install flathub io.github.fastrizwaan.WineZGUI -y
 flatpak install flathub net.davidotek.pupgui2 -y
 flatpak install flathub org.fedoraproject.MediaWriter -y
 flatpak install flathub org.gnome.Calculator -y
