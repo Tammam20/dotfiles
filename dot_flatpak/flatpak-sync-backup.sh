@@ -3,6 +3,7 @@ flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub com.mattjakeman.ExtensionManager -y
 flatpak install flathub com.transmissionbt.Transmission -y
+flatpak install flathub com.usebottles.bottles -y
 flatpak install flathub com.valvesoftware.Steam -y
 flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.dvlv.boxbuddyrs -y
