@@ -6,6 +6,8 @@ flatpak install flathub com.mattjakeman.ExtensionManager -y
 flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub com.usebottles.bottles -y
 flatpak install flathub com.valvesoftware.Steam -y
+flatpak install flathub com.vysp3r.ProtonPlus -y
+flatpak install flathub io.github.amit9838.mousam -y
 flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.dvlv.boxbuddyrs -y
 flatpak install flathub net.davidotek.pupgui2 -y
@@ -25,9 +27,7 @@ flatpak install flathub org.gnome.Maps -y
 flatpak install flathub org.gnome.NautilusPreviewer -y
 flatpak install flathub org.gnome.Snapshot -y
 flatpak install flathub org.gnome.TextEditor -y
-flatpak install flathub org.gnome.Weather -y
 flatpak install flathub org.gnome.baobab -y
-flatpak install flathub org.gnome.clocks -y
 flatpak install flathub org.gnome.font-viewer -y
 flatpak install flathub org.gnome.seahorse.Application -y
 flatpak install flathub org.keepassxc.KeePassXC -y
