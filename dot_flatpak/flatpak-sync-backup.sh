@@ -18,7 +18,6 @@ flatpak install flathub org.gnome.Characters -y
 flatpak install flathub org.gnome.Connections -y
 flatpak install flathub org.gnome.Contacts -y
 flatpak install flathub org.gnome.Evince -y
-flatpak install flathub org.gnome.Extensions -y
 flatpak install flathub org.gnome.Firmware -y
 flatpak install flathub org.gnome.Geary -y
 flatpak install flathub org.gnome.Logs -y
