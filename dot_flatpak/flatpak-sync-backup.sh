@@ -33,8 +33,6 @@ flatpak install flathub org.gnome.Contacts -y
 flatpak install flathub org.gnome.Contacts.Locale -y
 flatpak install flathub org.gnome.Evince -y
 flatpak install flathub org.gnome.Evince.Locale -y
-flatpak install flathub org.gnome.Extensions -y
-flatpak install flathub org.gnome.Extensions.Locale -y
 flatpak install flathub org.gnome.Firmware -y
 flatpak install flathub org.gnome.Firmware.Locale -y
 flatpak install flathub org.gnome.Geary -y
