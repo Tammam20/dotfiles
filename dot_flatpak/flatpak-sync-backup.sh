@@ -10,6 +10,8 @@ flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.celluloid_player.Celluloid.Locale -y
 flatpak install flathub io.github.dvlv.boxbuddyrs -y
 flatpak install flathub io.github.dvlv.boxbuddyrs.Locale -y
+flatpak install flathub it.mijorus.gearlever -y
+flatpak install flathub it.mijorus.gearlever.Locale -y
 flatpak install flathub org.freedesktop.Platform -y
 flatpak install flathub org.freedesktop.Platform -y
 flatpak install flathub org.freedesktop.Platform.GL.default -y
@@ -21,6 +23,7 @@ flatpak install flathub org.freedesktop.Platform.Locale -y
 flatpak install flathub org.freedesktop.Platform.VAAPI.Intel -y
 flatpak install flathub org.freedesktop.Platform.VAAPI.Intel -y
 flatpak install flathub org.freedesktop.Platform.ffmpeg-full -y
+flatpak install flathub org.freedesktop.Platform.openh264 -y
 flatpak install flathub org.gnome.Calculator -y
 flatpak install flathub org.gnome.Calculator.Locale -y
 flatpak install flathub org.gnome.Calendar -y
@@ -72,5 +75,6 @@ flatpak install flathub org.libreoffice.LibreOffice -y
 flatpak install flathub org.libreoffice.LibreOffice.Locale -y
 flatpak install flathub org.telegram.desktop -y
 flatpak install flathub org.telegram.desktop.webview -y
+flatpak install flathub org.telegram.desktop.webview.Locale -y
 flatpak install flathub org.vinegarhq.Sober -y
 flatpak install flathub xyz.xclicker.xclicker -y
