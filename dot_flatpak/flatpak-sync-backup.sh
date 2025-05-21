@@ -10,7 +10,6 @@ flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.celluloid_player.Celluloid.Locale -y
 flatpak install flathub io.github.dvlv.boxbuddyrs -y
 flatpak install flathub io.github.dvlv.boxbuddyrs.Locale -y
-flatpak install flathub org.flathub.flatpak_external_data_checker.Locale -y
 flatpak install flathub org.freedesktop.Platform -y
 flatpak install flathub org.freedesktop.Platform -y
 flatpak install flathub org.freedesktop.Platform.GL.default -y
@@ -22,8 +21,6 @@ flatpak install flathub org.freedesktop.Platform.Locale -y
 flatpak install flathub org.freedesktop.Platform.VAAPI.Intel -y
 flatpak install flathub org.freedesktop.Platform.VAAPI.Intel -y
 flatpak install flathub org.freedesktop.Platform.ffmpeg-full -y
-flatpak install flathub org.freedesktop.Platform.openh264 -y
-flatpak install flathub org.freedesktop.Sdk.Locale -y
 flatpak install flathub org.gnome.Calculator -y
 flatpak install flathub org.gnome.Calculator.Locale -y
 flatpak install flathub org.gnome.Calendar -y
@@ -58,8 +55,6 @@ flatpak install flathub org.gnome.Snapshot -y
 flatpak install flathub org.gnome.Snapshot.Locale -y
 flatpak install flathub org.gnome.TextEditor -y
 flatpak install flathub org.gnome.TextEditor.Locale -y
-flatpak install flathub org.gnome.Weather -y
-flatpak install flathub org.gnome.Weather.Locale -y
 flatpak install flathub org.gnome.baobab -y
 flatpak install flathub org.gnome.baobab.Locale -y
 flatpak install flathub org.gnome.clocks -y
@@ -70,10 +65,7 @@ flatpak install flathub org.gnome.seahorse.Application -y
 flatpak install flathub org.gnome.seahorse.Application.Locale -y
 flatpak install flathub org.gtk.Gtk3theme.Adwaita-dark -y
 flatpak install flathub org.kde.KStyle.Adwaita -y
-flatpak install flathub org.kde.KStyle.Adwaita -y
 flatpak install flathub org.kde.Platform -y
-flatpak install flathub org.kde.Platform -y
-flatpak install flathub org.kde.Platform.Locale -y
 flatpak install flathub org.kde.Platform.Locale -y
 flatpak install flathub org.kde.PlatformTheme.QGnomePlatform -y
 flatpak install flathub org.kde.WaylandDecoration.QAdwaitaDecorations -y
