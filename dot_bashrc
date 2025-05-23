@@ -24,7 +24,7 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-export PATH="$PATH:~/.cargo/bin"
+#export PATH="$PATH:~/.cargo/bin"
 # xremap bash completion
 #eval "$(xremap --completions bash)"
 # aliases
