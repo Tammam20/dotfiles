@@ -10,12 +10,14 @@ flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.celluloid_player.Celluloid.Locale -y
 flatpak install flathub io.github.dvlv.boxbuddyrs -y
 flatpak install flathub io.github.dvlv.boxbuddyrs.Locale -y
+flatpak install flathub io.github.philippkosarev.bmi -y
 flatpak install flathub io.github.seadve.Mousai -y
 flatpak install flathub io.github.seadve.Mousai.Locale -y
 flatpak install flathub it.mijorus.gearlever -y
 flatpak install flathub it.mijorus.gearlever.Locale -y
 flatpak install flathub net.nokyan.Resources -y
 flatpak install flathub net.nokyan.Resources.Locale -y
+flatpak install flathub net.supertuxkart.SuperTuxKart -y
 flatpak install flathub org.freedesktop.Platform -y
 flatpak install flathub org.freedesktop.Platform -y
 flatpak install flathub org.freedesktop.Platform.GL.default -y
@@ -56,6 +58,8 @@ flatpak install flathub org.gnome.Platform -y
 flatpak install flathub org.gnome.Platform -y
 flatpak install flathub org.gnome.Platform.Locale -y
 flatpak install flathub org.gnome.Platform.Locale -y
+flatpak install flathub org.gnome.PowerStats -y
+flatpak install flathub org.gnome.PowerStats.Locale -y
 flatpak install flathub org.gnome.Snapshot -y
 flatpak install flathub org.gnome.Snapshot.Locale -y
 flatpak install flathub org.gnome.TextEditor -y
