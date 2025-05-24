@@ -42,6 +42,11 @@ uninstall_sysext() {
   sudo rmdir "/etc/sysupdate.${SYSEXT}.d/"
 }
 
+update_sysext() {
+for c in $(/usr/lib/systemd/systemd-sysupdate components --json=short | jq --raw-output '.components[]'); do
+    sudo /usr/lib/systemd/systemd-sysupdate update --component "${c}"
+done
+}
 
 #export PATH="$PATH:~/.cargo/bin"
 # xremap bash completion
