@@ -62,7 +62,4 @@ alias la="ls -al"
 alias ll="ls -al"
 alias gup="git add . && git commit -m "update" && git push"
 alias rdext="sudo systemctl restart systemd-sysext.service"
-alias exup="for c in $(/usr/lib/systemd/systemd-sysupdate components --json=short | jq --raw-output '.components[]'); do
-    sudo /usr/lib/systemd/systemd-sysupdate update --component "${c}"
-done
-"
+alias exup="for c in $(/usr/lib/systemd/systemd-sysupdate components --json=short | jq --raw-output '.components[]'); do sudo /usr/lib/systemd/systemd-sysupdate update --component "${c}" done"
