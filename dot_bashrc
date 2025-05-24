@@ -49,7 +49,7 @@ uninstall_sysext() {
 # aliases
 alias cls=clear
 alias ff=fastfetch
-alias steam="flatpak run com.valvesoftware.Steam"
+#alias steam="flatpak run com.valvesoftware.Steam"
 alias fup="sh ~/.flatpak/flatpak-sync-backup-gen.sh && chezmoi re-add ~/.flatpak/flatpak-sync-backup.sh"
 alias fed="nano ~/.flatpak/flatpak-sync-backup-gen.sh && chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh"
 alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
