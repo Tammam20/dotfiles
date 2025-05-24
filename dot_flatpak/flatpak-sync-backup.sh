@@ -1,7 +1,6 @@
 flatpak install flathub ca.desrt.dconf-editor -y
 flatpak install flathub ca.desrt.dconf_editor.Locale -y
 flatpak install flathub com.github.tchx84.Flatseal -y
-flatpak install flathub com.google.Chrome -y
 flatpak install flathub com.mattjakeman.ExtensionManager -y
 flatpak install flathub com.mattjakeman.ExtensionManager.Locale -y
 flatpak install flathub io.github.amit9838.mousam -y
