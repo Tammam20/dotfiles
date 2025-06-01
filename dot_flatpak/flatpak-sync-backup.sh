@@ -9,6 +9,8 @@ flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.celluloid_player.Celluloid.Locale -y
 flatpak install flathub io.github.dvlv.boxbuddyrs -y
 flatpak install flathub io.github.dvlv.boxbuddyrs.Locale -y
+flatpak install flathub io.github.peazip.PeaZip -y
+flatpak install flathub io.github.peazip.PeaZip.Addon.i386 -y
 flatpak install flathub io.github.philippkosarev.bmi -y
 flatpak install flathub io.github.seadve.Mousai -y
 flatpak install flathub io.github.seadve.Mousai.Locale -y
@@ -74,6 +76,8 @@ flatpak install flathub org.gnome.seahorse.Application.Locale -y
 flatpak install flathub org.gtk.Gtk3theme.Adwaita-dark -y
 flatpak install flathub org.kde.KStyle.Adwaita -y
 flatpak install flathub org.kde.Platform -y
+flatpak install flathub org.kde.Platform -y
+flatpak install flathub org.kde.Platform.Locale -y
 flatpak install flathub org.kde.Platform.Locale -y
 flatpak install flathub org.kde.PlatformTheme.QGnomePlatform -y
 flatpak install flathub org.kde.WaylandDecoration.QAdwaitaDecorations -y
