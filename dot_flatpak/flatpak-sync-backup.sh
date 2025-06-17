@@ -88,5 +88,6 @@ flatpak install flathub org.supertuxproject.SuperTux -y
 flatpak install flathub org.telegram.desktop -y
 flatpak install flathub org.telegram.desktop.webview -y
 flatpak install flathub org.telegram.desktop.webview.Locale -y
+flatpak install flathub org.torproject.torbrowser-launcher -y
 flatpak install flathub org.vinegarhq.Sober -y
 flatpak install flathub xyz.xclicker.xclicker -y
