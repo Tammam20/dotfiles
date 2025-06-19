@@ -56,12 +56,12 @@ alias cls=clear
 alias ff=fastfetch
 #alias steam="flatpak run com.valvesoftware.Steam"
 
-fup() {
+function fup {
 sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
 chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
 }
 
-fed() {
+function fed {
 nano "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
 chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
 }
@@ -81,7 +81,7 @@ alias cza="chezmoi add"
 alias la="ls -al"
 alias ll="ls -al"
 
-gup() {
+function gup {
 git add .
 git commit -m "update"
 git push
