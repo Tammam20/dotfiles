@@ -91,7 +91,7 @@ function nup {
 cd "$HOME/.bashrc"
 gup
 cd "/etc/nixos"
-gup
+git pull
 cd -
 }
 
