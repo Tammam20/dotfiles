@@ -56,10 +56,10 @@ alias cls=clear
 alias ff=fastfetch
 #alias steam="flatpak run com.valvesoftware.Steam"
 
-fup() {
+#fup() {
 sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
 chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
-}
+#}
 fed() {
 nano ~/.flatpak/flatpak-sync-backup-gen.sh
 chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh
