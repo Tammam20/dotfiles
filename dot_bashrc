@@ -69,7 +69,7 @@ chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
 alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
 #alias frep="sh ~/.flatpak/remove-fedora-repo.sh"
 
-rced() {
+function rced {
 nano "$HOME/.bashrc"
 chezmoi re-add "$HOME/.bashrc"
 source "$HOME/.bashrc"
