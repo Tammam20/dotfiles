@@ -57,13 +57,13 @@ alias ff=fastfetch
 #alias steam="flatpak run com.valvesoftware.Steam"
 
 #fup() {
-sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
-chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
+#sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
+#chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
 #}
-fed() {
-nano ~/.flatpak/flatpak-sync-backup-gen.sh
-chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh
-}
+#fed() {
+#nano ~/.flatpak/flatpak-sync-backup-gen.sh
+#chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh
+#}
 alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
 #alias frep="sh ~/.flatpak/remove-fedora-repo.sh"
 rced() {
