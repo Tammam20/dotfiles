@@ -87,4 +87,12 @@ git commit -m "update"
 git push
 }
 
+function nup {
+cd "$HOME/.bashrc"
+gup
+cd "/etc/nixos"
+gup
+cd -
+}
+
 #alias rdext="sudo systemctl restart systemd-sysext.service"
