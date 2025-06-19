@@ -24,29 +24,29 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-install_sysext() {
-  SYSEXT="${1}"
-  URL="https://extensions.fcos.fr/extensions"
-  sudo install -d -m 0755 -o 0 -g 0 /etc/sysupdate.${SYSEXT}.d
-  sudo restorecon -RFv /etc/sysupdate.${SYSEXT}.d
-  curl --silent --fail --location "${URL}/${SYSEXT}.conf" \
-    | sudo tee "/etc/sysupdate.${SYSEXT}.d/${SYSEXT}.conf"
-  sudo /usr/lib/systemd/systemd-sysupdate update --component "${SYSEXT}"
-}
+#install_sysext() {
+#  SYSEXT="${1}"
+#  URL="https://extensions.fcos.fr/extensions"
+#  sudo install -d -m 0755 -o 0 -g 0 /etc/sysupdate.${SYSEXT}.d
+#  sudo restorecon -RFv /etc/sysupdate.${SYSEXT}.d
+#  curl --silent --fail --location "${URL}/${SYSEXT}.conf" \
+#    | sudo tee "/etc/sysupdate.${SYSEXT}.d/${SYSEXT}.conf"
+#  sudo /usr/lib/systemd/systemd-sysupdate update --component "${SYSEXT}"
+#}
 
-uninstall_sysext() {
-  SYSEXT="${1}"
-  sudo rm -i "/var/lib/extensions/${SYSEXT}.raw"
-  sudo rm -i "/var/lib/extensions.d/${SYSEXT}-"*".raw"
-  sudo rm -i "/etc/sysupdate.${SYSEXT}.d/${SYSEXT}.conf"
-  sudo rmdir "/etc/sysupdate.${SYSEXT}.d/"
-}
+#uninstall_sysext() {
+#  SYSEXT="${1}"
+#  sudo rm -i "/var/lib/extensions/${SYSEXT}.raw"
+#  sudo rm -i "/var/lib/extensions.d/${SYSEXT}-"*".raw"
+#  sudo rm -i "/etc/sysupdate.${SYSEXT}.d/${SYSEXT}.conf"
+#  sudo rmdir "/etc/sysupdate.${SYSEXT}.d/"
+#}
 
-update_sysext() {
-for c in $(/usr/lib/systemd/systemd-sysupdate components --json=short | jq --raw-output '.components[]'); do
-    sudo /usr/lib/systemd/systemd-sysupdate update --component "${c}"
-done
-}
+#update_sysext() {
+#for c in $(/usr/lib/systemd/systemd-sysupdate components --json=short | jq --raw-output '.components[]'); do
+#    sudo /usr/lib/systemd/systemd-sysupdate update --component "${c}"
+#done
+#}
 
 #export PATH="$PATH:~/.cargo/bin"
 # xremap bash completion
@@ -55,15 +55,29 @@ done
 alias cls=clear
 alias ff=fastfetch
 #alias steam="flatpak run com.valvesoftware.Steam"
-alias fup="sh ~/.flatpak/flatpak-sync-backup-gen.sh && chezmoi re-add ~/.flatpak/flatpak-sync-backup.sh"
-alias fed="nano ~/.flatpak/flatpak-sync-backup-gen.sh && chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh"
+fup()= {
+sh ~/.flatpak/flatpak-sync-backup-gen.sh
+chezmoi re-add ~/.flatpak/flatpak-sync-backup.sh
+}
+fed() {
+nano ~/.flatpak/flatpak-sync-backup-gen.sh
+chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh
+}
 alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
 #alias frep="sh ~/.flatpak/remove-fedora-repo.sh"
-alias rced="nano ~/.bashrc && chezmoi re-add ~/.bashrc && source ~/.bashrc"
+rced() {
+nano ~/.bashrc
+chezmoi re-add ~/.bashrc
+source ~/.bashrc
+}
 alias cz=chezmoi
 alias cra="chezmoi re-add"
 alias cza="chezmoi add"
 alias la="ls -al"
 alias ll="ls -al"
-alias gup="git add . && git commit -m "update" && git push"
-alias rdext="sudo systemctl restart systemd-sysext.service"
+gup() {
+git add .
+git commit -m "update"
+git push
+}
+#alias rdext="sudo systemctl restart systemd-sysext.service"
