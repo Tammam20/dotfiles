@@ -55,7 +55,7 @@ unset rc
 alias cls=clear
 alias ff=fastfetch
 #alias steam="flatpak run com.valvesoftware.Steam"
-fup()= {
+fup() {
 sh ~/.flatpak/flatpak-sync-backup-gen.sh
 chezmoi re-add ~/.flatpak/flatpak-sync-backup.sh
 }
