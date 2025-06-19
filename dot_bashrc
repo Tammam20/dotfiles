@@ -88,10 +88,10 @@ git push
 }
 
 function nup {
-cd "$HOME/.bashrc"
+cd "$HOME/nixos-config"
 gup
 cd "/etc/nixos"
-git pull
+sudo git pull
 cd -
 }
 
