@@ -1,4 +1,4 @@
-# .bashrc
+#!/usr/bin/env bash
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
@@ -6,7 +6,7 @@ if [ -f /etc/bashrc ]; then
 fi
 
 # User specific environment
-if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
+if ! [[ "$PATH" =~ $HOME/.local/bin:$HOME/bin: ]]; then
     PATH="$HOME/.local/bin:$HOME/bin:$PATH"
 fi
 export PATH
@@ -55,9 +55,10 @@ unset rc
 alias cls=clear
 alias ff=fastfetch
 #alias steam="flatpak run com.valvesoftware.Steam"
+
 fup() {
-sh ~/.flatpak/flatpak-sync-backup-gen.sh
-chezmoi re-add ~/.flatpak/flatpak-sync-backup.sh
+sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
+chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
 }
 fed() {
 nano ~/.flatpak/flatpak-sync-backup-gen.sh
@@ -68,7 +69,7 @@ alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
 rced() {
 nano ~/.bashrc
 chezmoi re-add ~/.bashrc
-source ~/.bashrc
+source "$HOME/.bashrc"
 }
 alias cz=chezmoi
 alias cra="chezmoi re-add"
