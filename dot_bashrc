@@ -56,29 +56,35 @@ alias cls=clear
 alias ff=fastfetch
 #alias steam="flatpak run com.valvesoftware.Steam"
 
-#fup() {
-#sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
-#chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
-#}
-#fed() {
-#nano ~/.flatpak/flatpak-sync-backup-gen.sh
-#chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh
-#}
+fup() {
+sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
+chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
+}
+
+fed() {
+nano ~/.flatpak/flatpak-sync-backup-gen.sh
+chezmoi re-add ~/.flatpak/flatpak-sync-backup-gen.sh
+}
+
 alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
 #alias frep="sh ~/.flatpak/remove-fedora-repo.sh"
+
 rced() {
 nano ~/.bashrc
 chezmoi re-add ~/.bashrc
 source "$HOME/.bashrc"
 }
+
 alias cz=chezmoi
 alias cra="chezmoi re-add"
 alias cza="chezmoi add"
 alias la="ls -al"
 alias ll="ls -al"
+
 gup() {
 git add .
 git commit -m "update"
 git push
 }
+
 #alias rdext="sudo systemctl restart systemd-sysext.service"
