@@ -96,4 +96,4 @@ cd --
 }
 
 #alias rdext="sudo systemctl restart systemd-sysext.service"
-alias sensors="nix-shell --run sensors"
+#alias sensors="nix-shell --run sensors"
