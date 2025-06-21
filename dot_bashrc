@@ -92,7 +92,7 @@ cd "$HOME/nixos-config"
 gup
 cd "/etc/nixos"
 sudo git pull
-cd -
+cd --
 }
 
 #alias rdext="sudo systemctl restart systemd-sysext.service"
