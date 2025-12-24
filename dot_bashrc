@@ -95,6 +95,7 @@ sudo git pull
 }
 alias nano=vim
 function nfu {
+nup
 cd "$HOME/nixos-config"
 nix flake update
 nup
