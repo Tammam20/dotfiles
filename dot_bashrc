@@ -94,5 +94,11 @@ cd "/etc/nixos"
 sudo git pull
 }
 alias nano=vim
+function nfu {
+cd "$HOME/nixos-config"
+nix flake update
+nup
+}
+alias nrs="sudo nixos-rebuild switch"
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
