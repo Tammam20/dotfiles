@@ -93,6 +93,6 @@ gup
 cd "/etc/nixos"
 sudo git pull
 }
-
+alias nano=vim
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
