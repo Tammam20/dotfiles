@@ -54,6 +54,7 @@ unset rc
 # aliases
 alias cls=clear
 alias ff=fastfetch
+alias nano=vim
 #alias steam="flatpak run com.valvesoftware.Steam"
 
 function fup {
@@ -93,7 +94,7 @@ gup
 cd "/etc/nixos"
 sudo git pull
 }
-alias nano=vim
 alias nrs="sudo nixos-rebuild switch"
+alias nro="sudo nixos-rebuild switch --offline"
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
