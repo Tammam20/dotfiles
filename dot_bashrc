@@ -95,6 +95,5 @@ cd "/etc/nixos"
 sudo git pull
 }
 alias nrs="sudo nixos-rebuild switch"
-alias nro="sudo nixos-rebuild switch --offline"
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
