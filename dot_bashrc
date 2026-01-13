@@ -94,6 +94,7 @@ cd "$HOME/nixos-config"
 gup
 cd "/etc/nixos"
 sudo git pull
+cd --
 }
 alias nrs="sudo nixos-rebuild switch"
 #alias rdext="sudo systemctl restart systemd-sysext.service"
