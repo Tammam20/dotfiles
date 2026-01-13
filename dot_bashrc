@@ -52,7 +52,7 @@ unset rc
 # xremap bash completion
 #eval "$(xremap --completions bash)"
 # aliases
-alias sudo=pkexec
+#alias sudo=pkexec
 alias cls=clear
 alias ff=fastfetch
 alias nano=vim
