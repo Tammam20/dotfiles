@@ -92,10 +92,9 @@ git push
 function nup {
 cd "$HOME/nixos-config"
 gup
-cd "/etc/nixos"
-sudo git pull
-cd "$HOME/nixos-config"
 }
-alias nrs="sudo nixos-rebuild switch"
+function nrs {
+sudo nixos-rebuild switch --flake "$HOME/nixos-config"
+}
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
