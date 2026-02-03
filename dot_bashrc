@@ -96,5 +96,8 @@ gup
 function nrs {
 sudo nixos-rebuild switch --flake "$HOME/nixos-config"
 }
+function nrb {
+sudo nixos-rebuild boot --flake "$HOME/nixos-config"
+}
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
