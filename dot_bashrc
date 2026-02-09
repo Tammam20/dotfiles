@@ -75,6 +75,7 @@ function rced {
 nano "$HOME/.bashrc"
 chezmoi re-add "$HOME/.bashrc"
 source "$HOME/.bashrc"
+source "$HOME/.bashrc"
 }
 
 alias cz=chezmoi
