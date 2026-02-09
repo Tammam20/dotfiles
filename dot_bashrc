@@ -95,12 +95,17 @@ cd "$HOME/nixos-config"
 gup
 }
 function nrs {
+nup
 sudo nixos-rebuild switch --flake "$HOME/nixos-config"
+nup
 }
 function nrb {
+nup
 sudo nixos-rebuild boot --flake "$HOME/nixos-config"
+nup
 }
 function nfu {
+nup
 cd "$HOME/nixos-config"
 nix flake update
 nup
