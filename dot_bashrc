@@ -103,6 +103,7 @@ sudo nixos-rebuild boot --flake "$HOME/nixos-config"
 function nfu {
 cd "$HOME/nixos-config"
 nix flake update
+nup
 }
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
