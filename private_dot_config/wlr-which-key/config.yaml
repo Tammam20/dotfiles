@@ -129,3 +129,7 @@ menu:
         desc: restore window
         cmd: mmsg -d restore_minimized
         keep_open: true
+      - key: "y"
+        desc: toggle overlay
+        cmd: mmsg -d toggleoverlay
+        keep_open: true
