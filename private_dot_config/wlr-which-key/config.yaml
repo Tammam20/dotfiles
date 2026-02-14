@@ -11,7 +11,7 @@ rows_per_column: 5 # No limit by default
 column_padding: 25 # Defaults to padding
 
 # Anchor and margin
-anchor: center # One of center, left, right, top, bottom, bottom-left, top-left, etc.
+anchor: top # One of center, left, right, top, bottom, bottom-left, top-left, etc.
 # Only relevant when anchor is not center
 margin_right: 0
 margin_bottom: 0
@@ -47,3 +47,47 @@ menu:
       - key: "e"
         desc: thunar
         cmd: thunar
+      - key: "c"
+        desc: bscode
+        cmd: code
+  - key: "w"
+    desc: mango
+    submenu:
+      - key: "w"
+        desc: swap win up
+        cmd: mmsg -d exchange_client,up
+      - key: "s"
+        desc: swap win down
+        cmd: mmsg -d exchange_client,down
+      - key: "a"
+        desc: swap win left
+        cmd: mmsg -d exchange_client,left
+      - key: "d"
+        desc: swap win right
+        cmd: mmsg -d exchange_client,right
+      - key: ""
+        desc: 
+        cmd: mmsg -d 
+      - key: ""
+        desc: 
+        cmd: mmsg -d 
+      - key: "f"
+        desc: go fullscreen window
+        cmd: mmsg -d togglefullscreen
+        keep_open: true
+      - key: "Up"
+        desc: move win up
+        cmd: mmsg -d movewin,+0,-50
+        keep_open: true
+      - key: "Down"
+        desc: move win up
+        cmd: mmsg -d movewin,+0,+50
+        keep_open: true
+      - key: "Left"
+        desc: move win up
+        cmd: mmsg -d movewin,-50,+0
+        keep_open: true
+      - key: "Right"
+        desc: move win right
+        cmd: mmsg -d movewin,+50,+0
+        keep_open: true
