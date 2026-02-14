@@ -7,7 +7,7 @@ separator: " ➜ "
 border_width: 2
 corner_r: 10
 padding: 15 # Defaults to corner_r
-rows_per_column: 5 # No limit by default
+#rows_per_column: 5 # No limit by default
 column_padding: 25 # Defaults to padding
 
 # Anchor and margin
@@ -85,14 +85,6 @@ menu:
         desc: resize win right
         cmd: mmsg -d resizewin,+50,+0
         keep_open: true
-      - key: "g"
-        desc: toggle global
-        cmd: mmsg -d toggleglobal
-        keep_open: true
-      - key: "f"
-        desc: toggle fullscreen window
-        cmd: mmsg -d togglefullscreen
-        keep_open: true
       - key: "Up"
         desc: move win up
         cmd: mmsg -d movewin,+0,-50
@@ -108,4 +100,32 @@ menu:
       - key: "Right"
         desc: move win right
         cmd: mmsg -d movewin,+50,+0
+        keep_open: true
+      - key: "g"
+        desc: toggle global
+        cmd: mmsg -d toggleglobal
+        keep_open: true
+      - key: "f"
+        desc: toggle fullscreen window
+        cmd: mmsg -d togglefullscreen
+        keep_open: true
+      - key: "t"
+        desc: toggle floating window
+        cmd: mmsg -d togglefloating
+        keep_open: true
+      - key: "m"
+        desc: toggle maximize window
+        cmd: mmsg -d togglemaximizescreen
+        keep_open: true
+      - key: "ü"
+        desc: toggle fakefullscreen window
+        cmd: mmsg -d togglefakefullscreen
+        keep_open: true
+      - key: "ö"
+        desc: minimize window
+        cmd: mmsg -d minimized
+        keep_open: true
+      - key: "ö"
+        desc: restore window
+        cmd: mmsg -d restore_minimized
         keep_open: true
