@@ -133,3 +133,16 @@ menu:
         desc: toggle overlay
         cmd: mmsg -d toggleoverlay
         keep_open: true
+      - key: "z"
+        desc: toggle scratchpad
+        cmd: mmsg -d toggle_scratchpad
+        keep_open: true
+      - key: "e"
+        desc: scroller layout proportion 1.0
+        cmd: mmsg -d set_proportion,1.0
+        keep_open: true
+      -  key: "r"
+         desc: switch scroller layout proportion
+         cmd: mmsg -d switch_proportion_preset
+         keep_open: true
+      #- key:
