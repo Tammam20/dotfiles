@@ -125,7 +125,7 @@ menu:
         desc: minimize window
         cmd: mmsg -d minimized
         keep_open: true
-      - key: "ö"
+      - key: "ä"
         desc: restore window
         cmd: mmsg -d restore_minimized
         keep_open: true
