@@ -98,11 +98,11 @@ menu:
         cmd: mmsg -d movewin,+0,-50
         keep_open: true
       - key: "Down"
-        desc: move win up
+        desc: move win down
         cmd: mmsg -d movewin,+0,+50
         keep_open: true
       - key: "Left"
-        desc: move win up
+        desc: move win left
         cmd: mmsg -d movewin,-50,+0
         keep_open: true
       - key: "Right"
