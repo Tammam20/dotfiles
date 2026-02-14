@@ -56,30 +56,39 @@ menu:
       - key: "w"
         desc: swap win up
         cmd: mmsg -d exchange_client,up
+        keep_open: true
       - key: "s"
         desc: swap win down
         cmd: mmsg -d exchange_client,down
+        keep_open: true
       - key: "a"
         desc: swap win left
         cmd: mmsg -d exchange_client,left
+        keep_open: true
       - key: "d"
         desc: swap win right
         cmd: mmsg -d exchange_client,right
+        keep_open: true
       - key: "i"
         desc: resize win up
         cmd: mmsg -d resizewin,+0,-50
+        keep_open: true
       - key: "k"
         desc: resize win down
         cmd: mmsg -d resizewin,+0,+50
+        keep_open: true
       - key: "j"
         desc: resize win left
         cmd: mmsg -d resizewin,-50,+0
+        keep_open: true
       - key: "l"
         desc: resize win right
         cmd: mmsg -d resizewin,+50,+0
+        keep_open: true
       - key: "g"
         desc: toggle global
-        cmd: mmsg -d 
+        cmd: mmsg -d toggleglobal
+        keep_open: true
       - key: "f"
         desc: toggle fullscreen window
         cmd: mmsg -d togglefullscreen
