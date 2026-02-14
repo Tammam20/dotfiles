@@ -185,3 +185,11 @@ menu:
         desc: switch tag to right
         cmd: mmsg -d tagtoright,0
         keep_open: true
+      - key: "+"
+        desc: gaps +
+        cmd: mmsg -d incgaps,1
+        keep_open: true
+      - key: "-"
+        desc: gaps -
+        cmd: mmsg -d incgaps,-1
+        keep_open: true
