@@ -29,167 +29,21 @@ inhibit_compositor_keyboard_shortcuts: true
 auto_kbd_layout: true
 
 menu:
-  - key: "a"
-    desc: Apps
-    submenu:
-      - key: "f"
-        desc: Firefox
-        cmd: firefox
-      - key: "t"
-        desc: Telegram
-        cmd: Telegram
-      - key: "k"
-        desc: Kitty
-        cmd: kitty
-      - key: "b"
-        desc: thunderbird
-        cmd: thunderbird
-      - key: "e"
-        desc: thunar
-        cmd: thunar
-      - key: "c"
-        desc: bscode
-        cmd: code
-  - key: "w"
-    desc: mango
-    submenu:
-      - key: "w"
-        desc: swap win up
-        cmd: mmsg -d exchange_client,up
-        keep_open: true
-      - key: "s"
-        desc: swap win down
-        cmd: mmsg -d exchange_client,down
-        keep_open: true
-      - key: "a"
-        desc: swap win left
-        cmd: mmsg -d exchange_client,left
-        keep_open: true
-      - key: "d"
-        desc: swap win right
-        cmd: mmsg -d exchange_client,right
-        keep_open: true
-      - key: "i"
-        desc: resize win up
-        cmd: mmsg -d resizewin,+0,-50
-        keep_open: true
-      - key: "k"
-        desc: resize win down
-        cmd: mmsg -d resizewin,+0,+50
-        keep_open: true
-      - key: "j"
-        desc: resize win left
-        cmd: mmsg -d resizewin,-50,+0
-        keep_open: true
-      - key: "l"
-        desc: resize win right
-        cmd: mmsg -d resizewin,+50,+0
-        keep_open: true
-      - key: "Up"
-        desc: move win up
-        cmd: mmsg -d movewin,+0,-50
-        keep_open: true
-      - key: "Down"
-        desc: move win down
-        cmd: mmsg -d movewin,+0,+50
-        keep_open: true
-      - key: "Left"
-        desc: move win left
-        cmd: mmsg -d movewin,-50,+0
-        keep_open: true
-      - key: "Right"
-        desc: move win right
-        cmd: mmsg -d movewin,+50,+0
-        keep_open: true
-      - key: "g"
-        desc: toggle global
-        cmd: mmsg -d toggleglobal
-        keep_open: true
-      - key: "f"
-        desc: toggle fullscreen window
-        cmd: mmsg -d togglefullscreen
-        keep_open: true
-      - key: "t"
-        desc: toggle floating window
-        cmd: mmsg -d togglefloating
-        keep_open: true
-      - key: "m"
-        desc: toggle maximize window
-        cmd: mmsg -d togglemaximizescreen
-        keep_open: true
-      - key: "ü"
-        desc: toggle fakefullscreen window
-        cmd: mmsg -d togglefakefullscreen
-        keep_open: true
-      - key: "ö"
-        desc: minimize window
-        cmd: mmsg -d minimized
-        keep_open: true
-      - key: "˝"
-        desc: restore window
-        cmd: mmsg -d restore_minimized
-        keep_open: true
-      - key: "y"
-        desc: toggle overlay
-        cmd: mmsg -d toggleoverlay
-        keep_open: true
-      - key: "z"
-        desc: toggle scratchpad
-        cmd: mmsg -d toggle_scratchpad
-        keep_open: true
-      - key: "e"
-        desc: scroller layout proportion 1.0
-        cmd: mmsg -d set_proportion,1.0
-        keep_open: true
-      -  key: "r"
-         desc: switch scroller layout proportion
-         cmd: mmsg -d switch_proportion_preset
-         keep_open: true
-      - key: "b"
-        desc: tile layout +1
-        cmd: mmsg -d incnmaster,1
-        keep_open: true
-      - key: "n"
-        desc: tile layout -1
-        cmd: mmsg -d incnmaster,-1
-        keep_open: true
-      - key: "v"
-        desc: tile lsyout zoom
-        cmd: mmsg -d zoom
-        keep_open: true
-      - key: "c"
-        desc: switch layout
-        cmd: mmsg -d switch_layout
-        keep_open: true
-      - key: "æ"
-        desc: switch to view left
-        cmd: mmsg -d viewtoleft,0
-        keep_open: true
-      - key: "ð"
-        desc: switch view to right
-        cmd: mmsg -d viewtoright,0
-        keep_open: true
-      - key: "ŋ"
-        desc: switch to view left with client
-        cmd: mmsg -d viewtoleft_have_client,0
-        keep_open: true
-      - key: "ħ"
-        desc: switch to view right with client
-        cmd: mmsg -d viewtoright_have_client,0
-        keep_open: true
-      - key: "ʒ"
-        desc: switch tag to left
-        cmd: mmsg -d tagtoleft,0
-        keep_open: true
-      - key: "ł"
-        desc: switch tag to right
-        cmd: mmsg -d tagtoright,0
-        keep_open: true
-      - key: "+"
-        desc: gaps +
-        cmd: mmsg -d incgaps,1
-        keep_open: true
-      - key: "-"
-        desc: gaps -
-        cmd: mmsg -d incgaps,-1
-        keep_open: true
+    - key: "f"
+      desc: Firefox
+      cmd: firefox
+    - key: "t"
+      desc: Telegram
+      cmd: Telegram
+    - key: "k"
+      desc: Kitty
+      cmd: kitty
+    - key: "b"
+      desc: thunderbird
+      cmd: thunderbird
+    - key: "e"
+      desc: thunar
+      cmd: thunar
+    - key: "c"
+      desc: bscode
+      cmd: code
