@@ -112,4 +112,4 @@ nup
 }
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
-source ~/.warp-comp.sh
+source $HOME/.warp-comp.sh
