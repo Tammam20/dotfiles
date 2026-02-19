@@ -33,90 +33,142 @@ menu:
       desc: swap win up
       cmd: mmsg -d exchange_client,up
       keep_open: true
+
     - key: "s"
       desc: swap win down
       cmd: mmsg -d exchange_client,down
       keep_open: true
+
     - key: "a"
       desc: swap win left
       cmd: mmsg -d exchange_client,left
       keep_open: true
+
     - key: "d"
       desc: swap win right
       cmd: mmsg -d exchange_client,right
       keep_open: true
+
     - key: "i"
       desc: resize win up
       cmd: mmsg -d resizewin,+0,-50
       keep_open: true
+
     - key: "k"
       desc: resize win down
       cmd: mmsg -d resizewin,+0,+50
       keep_open: true
+
     - key: "j"
       desc: resize win left
       cmd: mmsg -d resizewin,-50,+0
       keep_open: true
+
     - key: "l"
       desc: resize win right
       cmd: mmsg -d resizewin,+50,+0
       keep_open: true
+
     - key: "ß"
       desc: move win up
       cmd: mmsg -d movewin,+0,-50
       keep_open: true
+
     - key: "ü"
       desc: move win down
       cmd: mmsg -d movewin,+0,+50
       keep_open: true
+
     - key: "p"
       desc: move win left
       cmd: mmsg -d movewin,-50,+0
       keep_open: true
+
     - key: "+"
       desc: move win right
       cmd: mmsg -d movewin,+50,+0
       keep_open: true
+
     - key: "Up"
       desc: switch to window in up direction
       cmd: mmsg -d focusdir,up
       keep_open: true
+
     - key: "Down"
       desc: switch to window in down direction
       cmd: mmsg -d focusdir,down
       keep_open: true
+
     - key: "Left"
       desc: switch to window on left
       cmd: mmsg -d focusdir,left
       keep_open: true
+
     - key: "Right"
       desc: switch to window on right
       cmd: mmsg -d focusdir,right
       keep_open: true
+
     - key: "ö"
       desc: minimize window
       cmd: mmsg -d minimized
       keep_open: true
+
     - key: "ä"
       desc: restore window
       cmd: mmsg -d restore_minimized
       keep_open: true
+
     - key: "g"
       desc: toggle global
       cmd: mmsg -d toggleglobal
       keep_open: true
+
     - key: "f"
       desc: toggle fullscreen window
       cmd: mmsg -d togglefullscreen
       keep_open: true
+
     - key: "t"
       desc: toggle floating window
       cmd: mmsg -d togglefloating
       keep_open: true
+
     - key: "m"
       desc: toggle maximize window
       cmd: mmsg -d togglemaximizescreen
       keep_open: true
+
+    -  key: "r"
+       desc: switch scroller layout proportion
+       cmd: mmsg -d switch_proportion_preset
+       keep_open: true
+
+    - key: "b"
+      desc: tile layout +1
+      cmd: mmsg -d incnmaster,1
+      keep_open: true
+
+    - key: "n"
+      desc: tile layout -1
+      cmd: mmsg -d incnmaster,-1
+      keep_open: true
+
+    - key: "v"
+      desc: tile lsyout zoom
+      cmd: mmsg -d zoom
+      keep_open: true
+
+    - key: "c"
+      desc: switch layout
+      cmd: mmsg -d switch_layout
+      keep_open: true
+
+    - key: "´"
+      desc: toggle gaps
+      cmd: mmsg -d togglegaps
+      keep_open: true
+      
     #- key: "ü"
     #  desc: toggle fakefullscreen window
     #  cmd: mmsg -d togglefakefullscreen
@@ -133,26 +185,6 @@ menu:
     #  desc: scroller layout proportion 1.0
     #  cmd: mmsg -d set_proportion,1.0
     #  keep_open: true
-    -  key: "r"
-       desc: switch scroller layout proportion
-       cmd: mmsg -d switch_proportion_preset
-       keep_open: true
-    - key: "b"
-      desc: tile layout +1
-      cmd: mmsg -d incnmaster,1
-      keep_open: true
-    - key: "n"
-      desc: tile layout -1
-      cmd: mmsg -d incnmaster,-1
-      keep_open: true
-    - key: "v"
-      desc: tile lsyout zoom
-      cmd: mmsg -d zoom
-      keep_open: true
-    - key: "c"
-      desc: switch layout
-      cmd: mmsg -d switch_layout
-      keep_open: true
     #- key: "æ"
     #  desc: switch to view left
     #  cmd: mmsg -d viewtoleft,0
@@ -185,7 +217,3 @@ menu:
     #  desc: gaps -
     #  cmd: mmsg -d incgaps,-1
     #  keep_open: true
-    - key: "´"
-      desc: toggle gaps
-      cmd: mmsg -d togglegaps
-      keep_open: true
