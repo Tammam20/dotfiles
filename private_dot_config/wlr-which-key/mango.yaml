@@ -61,37 +61,37 @@ menu:
       desc: resize win right
       cmd: mmsg -d resizewin,+50,+0
       keep_open: true
-    - key: "Up"
+    - key: "ß"
       desc: move win up
       cmd: mmsg -d movewin,+0,-50
       keep_open: true
-    - key: "Down"
+    - key: "ü"
       desc: move win down
       cmd: mmsg -d movewin,+0,+50
       keep_open: true
-    - key: "Left"
+    - key: "p"
       desc: move win left
       cmd: mmsg -d movewin,-50,+0
       keep_open: true
-    - key: "Right"
+    - key: "+"
       desc: move win right
       cmd: mmsg -d movewin,+50,+0
       keep_open: true
-    - key: "p"
-      desc: switch to window on left
-      cmd: mmsg -d focusdir,left
-      keep_open: true
-    - key: "+"
-      desc: switch to window on right
-      cmd: mmsg -d focusdir,right
-      keep_open: true
-    - key: "ß"
+    - key: "Up"
       desc: switch to window in up direction
       cmd: mmsg -d focusdir,up
       keep_open: true
-    - key: "ü"
+    - key: "Down"
       desc: switch to window in down direction
       cmd: mmsg -d focusdir,down
+      keep_open: true
+    - key: "Left"
+      desc: switch to window on left
+      cmd: mmsg -d focusdir,left
+      keep_open: true
+    - key: "Right"
+      desc: switch to window on right
+      cmd: mmsg -d focusdir,right
       keep_open: true
     - key: "ö"
       desc: minimize window
