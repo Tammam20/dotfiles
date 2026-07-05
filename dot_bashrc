@@ -110,6 +110,10 @@ cd "$HOME/nixos-config"
 nix flake update
 nup
 }
+function arup {
+virsh connect qemu:///system
+virsh start archlinux
+}
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
 source $HOME/.warp-comp.sh
