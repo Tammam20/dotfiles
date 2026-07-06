@@ -47,3 +47,9 @@ menu:
     - key: "c"
       desc: bscode
       cmd: code
+    - key: "l"
+      desc: lutris
+      cmd: lutris
+    - key: "v"
+      desc: virt-manager
+      cmd: virt-manager
