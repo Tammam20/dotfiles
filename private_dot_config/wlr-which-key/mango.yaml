@@ -69,22 +69,22 @@ menu:
       cmd: mmsg -d resizewin,+50,+0
       keep_open: true
 
-    - key: "ß"
+    - key: "ALT+Up"
       desc: move win up
       cmd: mmsg -d movewin,+0,-50
       keep_open: true
 
-    - key: "ü"
+    - key: "ALT+Down"
       desc: move win down
       cmd: mmsg -d movewin,+0,+50
       keep_open: true
 
-    - key: "p"
+    - key: "ALT+Left"
       desc: move win left
       cmd: mmsg -d movewin,-50,+0
       keep_open: true
 
-    - key: "+"
+    - key: "ALT+Right"
       desc: move win right
       cmd: mmsg -d movewin,+50,+0
       keep_open: true
@@ -118,7 +118,12 @@ menu:
       desc: restore window
       cmd: mmsg -d restore_minimized
       keep_open: true
-
+    
+    - key: "Tab"
+      desc: toggle overview
+      cmd: mmsg -d toggleoverview,0
+      keep_open: true
+    
     - key: "g"
       desc: toggle global
       cmd: mmsg -d toggleglobal
@@ -168,7 +173,7 @@ menu:
       desc: toggle gaps
       cmd: mmsg -d togglegaps
       keep_open: true
-      
+
     #- key: "ü"
     #  desc: toggle fakefullscreen window
     #  cmd: mmsg -d togglefakefullscreen
