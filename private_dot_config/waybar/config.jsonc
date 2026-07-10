@@ -7,12 +7,12 @@
     "ipc": false,
     "reload_style_on_change": true,
     "height": 45,
-    "modules-left": [
-        "ext/workspaces",
-        // "dwl/tags",
-        "wlr/taskbar",
-        "dwl/window"
+        "modules-left": [
+        "sway/workspaces",
+        "sway/mode",
+        "sway/scratchpad"
     ],
+    
     "modules-right": [
         "tray",
         "network",
@@ -26,15 +26,15 @@
         "custom/notification",
         "custom/power"
     ],
-    "ext/workspaces": {
-      "format": "{icon}",
-      "ignore-hidden": true,
+   // "ext/workspaces": {
+     // "format": "{icon}",
+     // "ignore-hidden": true,
       // "active-only":true,
-      "on-click": "activate",
-      "on-click-right": "deactivate",
-      "on-scroll-up":"mmsg -d viewtoleft_have_client",
-      "on-scroll-down":"mmsg -d viewtoright_have_client",
-      "sort-by-id": true
+     // "on-click": "activate",
+     // "on-click-right": "deactivate",
+     // "on-scroll-up":"mmsg -d viewtoleft_have_client",
+     // "on-scroll-down":"mmsg -d viewtoright_have_client",
+     // "sort-by-id": true
       // "format-icons": {
       //   "1": "",
       //   "2": "",
@@ -45,16 +45,16 @@
       //   "active": "",
       //   "default": ""
       // },
-    },
-    "dwl/tags": {
-      "num-tags": 9,
-      "hide-vacant": true
+   // },
+    //"dwl/tags": {
+     // "num-tags": 9,
+      //"hide-vacant": true
       // "tag-labels": ["一", "二", "三", "四", "五", "六", "七", "八", "九"]
-    },
-    "dwl/window": {
-        "format": "[{layout}]{title}",
-        "on-click":"bash ~/.config/mango/scripts/screenshot.sh"
-    },
+   // },
+    //"dwl/window": {
+      //  "format": "[{layout}]{title}",
+       // "on-click":"bash ~/.config/mango/scripts/screenshot.sh"
+   // },
     "custom/notification": {
       "tooltip": false,
       "format": "{icon}",
@@ -197,7 +197,7 @@
         "format-full": "{capacity}% {icon}",
         "format-charging": "{capacity}% 󰃨",
         "format-plugged": "{capacity}% ",
-        "format-alt": "{time} {icon}",
+        //"format-alt": "{time} {icon}",
         // "format-good": "", // An empty format will hide the module
         // "format-full": "",
         "format-icons": ["", "", "", "", ""]
