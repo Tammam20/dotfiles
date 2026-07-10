@@ -19,12 +19,12 @@
         "pulseaudio",
   //      "cpu",
 	      "custom/fan",
-        "temperature",
+//        "temperature",
 	      "battery",
         "backlight",
         "clock",
-        "custom/notification",
-        "custom/power"
+        "custom/notification"
+       // "custom/power"
     ],
    // "ext/workspaces": {
      // "format": "{icon}",

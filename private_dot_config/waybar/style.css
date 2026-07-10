@@ -435,10 +435,15 @@ tooltip {
   border-width: 2px;
   border-style: solid;
   border-color: #4986dd;
+  border-radius: 0px 4px 4px 0px;
   border-left: 0px;
+  margin-left: 0px;
+  margin-right: 4px;
+  padding-right: 14px;
+  /*border-left: 0px;
   border-right: 0px;
   border-radius: 0px;
-  min-width: 18px;
+  min-width: 18px;*/
 }
 
 #custom-power {
