@@ -223,7 +223,7 @@ bindsym $mod+r mode "resize"
     # Special key to take a screenshot with grim
     bindsym Print exec slurp | grim -g - $HOME/Pictures/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')
 
-#exec dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots
+exec dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots
 
 exec lxqt-policykit-agent
 
