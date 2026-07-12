@@ -47,6 +47,7 @@ set $menu wmenu-run -i
 # Example configuration:
 #
    input type:touchpad {
+       events disabled
        dwt enabled
        tap enabled
        natural_scroll enabled
