@@ -110,6 +110,18 @@ cd "$HOME/nixos-config"
 nix flake update
 nup
 }
+
+function batfix {
+#echo Modify the start threshold of BAT1
+sudo nano /sys/class/power_supply/BAT1/charge_control_start_threshold
+#echo Modify the stop threshold of BAT1
+sudo nano /sys/class/power_supply/BAT1/charge_control_end_threshold
+#echo Modify the start threshold of BAT2
+sudo nano /sys/class/power_supply/BAT2/charge_control_start_threshold
+#echo Modify the stop threshold of BAT2
+sudo nano /sys/class/power_supply/BAT2/charge_control_end_threshold
+}
+
 #function arup {
 #virsh connect qemu:///system
 #virsh start archlinux
