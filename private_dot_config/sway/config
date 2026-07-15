@@ -249,7 +249,7 @@ exec wl-clip-persist --clipboard regular --reconnect-tries 0
 exec wl-paste --type text --watch cliphist store
 
 # bluetooth 
-exec blueman-applet
+#exec blueman-applet
 
 # network
 exec nm-applet
