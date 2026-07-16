@@ -18,7 +18,7 @@
         "network",
         "pulseaudio",
   //      "cpu",
-	      "custom/fan",
+//	      "custom/fan",
 //        "temperature",
 	      "battery",
         "backlight",
@@ -203,9 +203,9 @@
         "format-icons": ["", "", "", "", ""]
     },
 
-    "custom/fan": {
-    "exec": "sensors | awk '/fan1:/ {print $2,$3}'",
-    "format": "{} 󰈐",
-    "interval": 2
-  }
+//    "custom/fan": {
+  //  "exec": "sensors | awk '/fan1:/ {print $2,$3}'",
+   // "format": "{} 󰈐",
+   // "interval": 2
+ // }
 }

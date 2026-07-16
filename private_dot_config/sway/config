@@ -46,6 +46,9 @@ set $menu wmenu-run -i
 #
 # Example configuration:
 #
+   input type:Pointer {
+   pointer_accel -0.8
+  }
    input type:touchpad {
        events disabled
        dwt enabled
@@ -267,10 +270,10 @@ exec sway-audio-idle-inhibit
     # The default just shows the current date and time.
     #status_command while date +'%Y-%m-%d %X'; do sleep 1; done
 
-    #colors {
-     #   statusline #ffffff
-      #  background #323232
-      #  inactive_workspace #32323200 #32323200 #5c5c5c
+  #  colors {
+   #     statusline #ffffff
+    #    background #323232
+     #   inactive_workspace #32323200 #32323200 #5c5c5c
    # }
 #}
 
