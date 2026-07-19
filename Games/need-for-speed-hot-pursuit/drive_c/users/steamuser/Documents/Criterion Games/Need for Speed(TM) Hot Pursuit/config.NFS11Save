@@ -1,0 +1,17 @@
+[Hardware]
+AdapterNumber=0
+[Display]
+Width=1280
+Height=720
+ForceAniso=false
+HiResTextures=true
+MotionBlur=false
+DepthOfField=false
+FitToVertical=true
+GammaRamp=0.750
+[Settings]
+ShadowMapLevel=1
+Webcam=
+[Sound]
+SpeakerSetup=0
+HighQualFilters=1
