@@ -230,6 +230,7 @@ bindsym $mod+r mode "resize"
 
     # Special key to take a screenshot with grim
     bindsym Print exec slurp | grim -g - $HOME/Pictures/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')
+    bindsym XF86SelectiveScreenshot exec wf-recorder -g "$(slurp)" -f $HOME/Videos/$(date +'video_%Y-%m-%d-%H%M%S.mkv')
 
 exec dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots
 
