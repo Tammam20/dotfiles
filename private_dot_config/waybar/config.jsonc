@@ -75,16 +75,16 @@
       "on-click-right": "swaync-client -d -sw",
       "escape": true
     },
-    "keyboard-state": {
-        "numlock": false,
-        "scrolllock": false,
-        "capslock": true,
-        "format": "{icon}",
-        "format-icons": {
-            "locked": "Capslock"
+  //  "keyboard-state": {
+    //    "numlock": false,
+      //  "scrolllock": false,
+       // "capslock": true,
+       // "format": "{icon}",
+      //  "format-icons": {
+        //    "locked": "Capslock"
     //        "unlocked": ""
-        }
-    },
+      //  }
+  //  },
    // "cpu": {
      // "interval": 2,
      // "format": " {load}%"
@@ -154,7 +154,7 @@
       }
     },
     "pulseaudio": {
-        "format": "{icon} {volume}%",
+        "format": "{icon}   {volume}%",
         "tooltip": false,
         "format-muted": " Muted",
         //"on-click": "pamixer -t",
@@ -171,11 +171,11 @@
             "default": ["", "", ""]
         }
     },
-    "custom/power": {
-        "format": "",
-        "tooltip": false,
-        "on-click": "wlogout"
-    },
+//    "custom/power": {
+      //  "format": "",
+    //    "tooltip": false,
+  //      "on-click": "wlogout"
+//    },
     "pulseaudio#microphone": {
         "format": "{format_source}",
         "format-source": " {volume}%",
