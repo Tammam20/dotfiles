@@ -459,7 +459,7 @@ tooltip {
   padding-right: 14px;
 }
 
-menu {
+/*menu {
   border-width: 2px;
   border-style: solid;
   border-color: #4986dd;
@@ -477,3 +477,4 @@ menuitem:focus,
 menuitem:hover {
   background: #4986dd;
 }
+*/
