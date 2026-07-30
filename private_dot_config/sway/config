@@ -16,7 +16,7 @@ set $right l
 # Your preferred terminal emulator
 set $term foot
 # Your preferred application launcher
-set $menu wmenu-run -i
+set $menu wmenu-run
 
 ### Output configuration
 #
@@ -73,7 +73,7 @@ set $menu wmenu-run -i
 #
     # Start a terminal
     bindsym $mod+Return exec $term
-    bindsym $mod+Shift+Return exec firefox
+    bindsym $mod+Shift+Return exec brave
 
     # Kill focused window
     bindsym $mod+Shift+q kill
@@ -232,7 +232,7 @@ bindsym $mod+r mode "resize"
     bindsym Print exec slurp | grim -g - $HOME/Pictures/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')
     bindsym XF86SelectiveScreenshot exec wf-recorder -g "$(slurp)" -f $HOME/Videos/$(date +'video_%Y-%m-%d-%H%M%S.mkv')
 
-exec dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots
+exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots
 
 exec lxqt-policykit-agent
 
@@ -257,7 +257,7 @@ exec wl-paste --type text --watch cliphist store
 #exec blueman-applet
 
 # network
-exec nm-applet
+#exec nm-applet
 
 # inhibit by audio
 exec sway-audio-idle-inhibit

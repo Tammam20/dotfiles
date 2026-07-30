@@ -91,17 +91,17 @@ git push
 }
 
 function nup {
-cd "$HOME/nixos-config"
+cd "$HOME/finix-config"
 gup
 }
 function nrs {
 nup
-sudo nixos-rebuild switch --flake "$HOME/nixos-config"
+sudo nixos-rebuild switch --flake "$HOME/finix-config"
 nup
 }
 function nrb {
 nup
-sudo nixos-rebuild boot --flake "$HOME/nixos-config"
+sudo nixos-rebuild boot --flake "$HOME/finix-config"
 nup
 }
 function nfu {
