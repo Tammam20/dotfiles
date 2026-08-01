@@ -96,18 +96,18 @@ gup
 }
 function nrs {
 nup
-sudo nixos-rebuild switch --flake "$HOME/finix-config"
+sudo nixos-rebuild switch --flake "$HOME/finix-config" --option access-tokens github.com="$(gh auth token)"
 nup
 }
 function nrb {
 nup
-sudo nixos-rebuild boot --flake "$HOME/finix-config"
+sudo nixos-rebuild boot --flake "$HOME/finix-config" --option access-tokens github.com="$(gh auth token)"
 nup
 }
 function nfu {
 nup
 cd "$HOME/nixos-config"
-nix flake update
+nix flake update --option access-tokens github.com="$(gh auth token)"
 nup
 }
 
