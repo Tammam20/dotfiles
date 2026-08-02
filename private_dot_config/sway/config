@@ -234,7 +234,14 @@ bindsym $mod+r mode "resize"
 
 exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots
 
-exec lxqt-policykit-agent
+#exec $HOME/pipewire-session.sh
+
+# audio stuff
+exec pipewire
+exec pipewire-pulse
+exec wireplumber
+
+#exec lxqt-policykit-agent
 
 # notify
 exec swaync
