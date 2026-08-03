@@ -122,6 +122,9 @@ sudo nano /sys/class/power_supply/BAT2/charge_control_start_threshold
 sudo nano /sys/class/power_supply/BAT2/charge_control_end_threshold
 }
 
+alias zzz="sudo zzz"
+alias poweroff="sudo poweroff"
+alias reboot="sudo reboot"
 #function arup {
 #virsh connect qemu:///system
 #virsh start archlinux
