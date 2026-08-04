@@ -234,45 +234,45 @@ bindsym $mod+r mode "resize"
     bindsym Print exec slurp | grim -g - $HOME/Pictures/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')
     bindsym XF86SelectiveScreenshot exec wf-recorder -g "$(slurp)" -f $HOME/Videos/$(date +'video_%Y-%m-%d-%H%M%S.mkv')
 
-# sleep on lid close
-bindswitch --reload --locked lid:on exec sudo zzz
+	# sleep on lid close
+	bindswitch --reload --locked lid:on exec sudo zzz
 
-exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots
+exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots  >/dev/null 2>&1
 
 #exec $HOME/pipewire-session.sh
 
 # audio stuff
-exec pipewire
-exec pipewire-pulse
-exec wireplumber
+exec pipewire >/dev/null 2>&1
+exec pipewire-pulse >/dev/null 2>&1
+exec wireplumber >/dev/null 2>&1
 
-#exec lxqt-policykit-agent
+#exec lxqt-policykit-agent  >/dev/null 2>&1
 
 # notify
-exec swaync
+exec swaync  >/dev/null 2>&1
 #-c ~/.config/mango/swaync/config.jsonc -s ~/.config/mango/swaync/style.css
 
 # night light
-#exec wlsunset
+#exec wlsunset  >/dev/null 2>&1
 
 
 # top bar
-exec waybar
+exec waybar  >/dev/null 2>&1
 
 # keep clipboard content
-exec wl-clip-persist --clipboard regular --reconnect-tries 0
+exec wl-clip-persist --clipboard regular --reconnect-tries 0  >/dev/null 2>&1
 
 # clipboard content manager
-exec wl-paste --type text --watch cliphist store
+exec wl-paste --type text --watch cliphist store  >/dev/null 2>&1
 
 # bluetooth 
-#exec blueman-applet
+#exec blueman-applet  >/dev/null 2>&1
 
 # network
-#exec nm-applet
+#exec nm-applet  >/dev/null 2>&1
 
 # inhibit by audio
-exec sway-audio-idle-inhibit
+exec sway-audio-idle-inhibit  >/dev/null 2>&1
 #
 # Status Bar:
 #
