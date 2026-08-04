@@ -91,7 +91,7 @@ git push
 }
 
 function nup {
-cd "$HOME/finix-config"
+cd "$HOME/finix-config" || return
 gup
 }
 function nrs {
@@ -106,7 +106,7 @@ nup
 }
 function nfu {
 nup
-cd "$HOME/nixos-config"
+cd "$HOME/nixos-config" || return
 nix flake update --option access-tokens github.com="$(gh auth token)"
 nup
 }
@@ -122,6 +122,12 @@ sudo nano /sys/class/power_supply/BAT2/charge_control_start_threshold
 sudo nano /sys/class/power_supply/BAT2/charge_control_end_threshold
 }
 
+function ngc {
+	sudo nix-collect-garbage -d
+	sudo nix-collect-garbage
+	nrs
+}
+
 alias zzz="sudo zzz"
 alias poweroff="sudo poweroff"
 alias reboot="sudo reboot"
@@ -131,4 +137,4 @@ alias reboot="sudo reboot"
 #}
 #alias rdext="sudo systemctl restart systemd-sysext.service"
 #alias sensors="nix-shell --run sensors"
-source $HOME/.warp-comp.sh
+#source $HOME/.warp-comp.sh
