@@ -112,14 +112,21 @@ nup
 }
 
 function batfix {
-#echo Modify the start threshold of BAT1
-sudo nano /sys/class/power_supply/BAT1/charge_control_start_threshold
-#echo Modify the stop threshold of BAT1
-sudo nano /sys/class/power_supply/BAT1/charge_control_end_threshold
-#echo Modify the start threshold of BAT2
-sudo nano /sys/class/power_supply/BAT2/charge_control_start_threshold
-#echo Modify the stop threshold of BAT2
-sudo nano /sys/class/power_supply/BAT2/charge_control_end_threshold
+echo "Modify the start threshold of BAT1"
+sudoedit /sys/class/power_supply/BAT1/charge_control_start_threshold
+echo "/sys/class/power_supply/BAT1/charge_control_start_threshold" = "$(cat /sys/class/power_supply/BAT1/charge_control_start_threshold)"
+
+echo "Modify the stop threshold of BAT1"
+sudoedit /sys/class/power_supply/BAT1/charge_control_end_threshold
+echo "/sys/class/power_supply/BAT1/charge_control_end_threshold" = "$(cat /sys/class/power_supply/BAT1/charge_control_end_threshold)"
+
+echo "Modify the start threshold of BAT2"
+sudoedit /sys/class/power_supply/BAT2/charge_control_start_threshold
+echo "/sys/class/power_supply/BAT2/charge_control_start_threshold" = "$(cat /sys/class/power_supply/BAT2/charge_control_start_threshold)"
+
+echo "Modify the stop threshold of BAT2"
+sudoedit /sys/class/power_supply/BAT2/charge_control_end_threshold
+echo "/sys/class/power_supply/BAT2/charge_control_end_threshold" = "$(cat /sys/class/power_supply/BAT2/charge_control_end_threshold)"
 }
 
 function ngc {
