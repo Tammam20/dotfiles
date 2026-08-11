@@ -237,7 +237,7 @@ bindsym $mod+r mode "resize"
 	# sleep on lid close
 	bindswitch --reload --locked lid:on exec sudo zzz
 
-exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=wlroots  >/dev/null 2>&1
+exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=sway  >/dev/null 2>&1
 
 #exec $HOME/pipewire-session.sh
 
