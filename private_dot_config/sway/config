@@ -46,10 +46,10 @@ set $menu wmenu-run
 #
 # Example configuration:
 #
-   input type:Pointer {
+#   input type:Pointer {
 #   accel_profile 
-   pointer_accel 0
-  }
+   #pointer_accel 0
+ # }
    input type:touchpad {
        events disabled
        dwt enabled
@@ -61,7 +61,7 @@ set $menu wmenu-run
    input type:keyboard {
        xkb_layout "de,ara"
        xkb_variant "nodeadkeys"
-       xkb_options "grp:win_space_toggle"
+       xkb_options grp:lctrl_toggle,caps:escape
    }
 #
 # You can also configure each device individually.
