@@ -61,7 +61,8 @@ set $menu wmenu-run
    input type:keyboard {
        xkb_layout "de,ara"
        xkb_variant "nodeadkeys"
-       xkb_options grp:lctrl_toggle,caps:escape
+       xkb_options grp:ctrls_toggle 
+       #,caps:escape
    }
 #
 # You can also configure each device individually.
