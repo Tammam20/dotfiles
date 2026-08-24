@@ -106,7 +106,7 @@ nup
 }
 function nfu {
 nup
-cd "$HOME/nixos-config" || return
+cd "$HOME/finix-config" || return
 nix flake update --option access-tokens github.com="$(gh auth token)"
 nup
 }

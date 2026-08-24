@@ -244,8 +244,8 @@ exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=sway
 
 # audio stuff
 exec pipewire >/dev/null 2>&1
-exec pipewire-pulse >/dev/null 2>&1
-exec wireplumber >/dev/null 2>&1
+exec sleep 0.5 && pipewire-pulse >/dev/null 2>&1
+exec sleep 0.5 && wireplumber >/dev/null 2>&1
 
 #exec lxqt-policykit-agent  >/dev/null 2>&1
 
@@ -258,7 +258,7 @@ exec swaync  >/dev/null 2>&1
 
 
 # top bar
-exec waybar  >/dev/null 2>&1
+exec sleep 0.6 && waybar  >/dev/null 2>&1
 
 # keep clipboard content
 exec wl-clip-persist --clipboard regular --reconnect-tries 0  >/dev/null 2>&1
