@@ -25,52 +25,9 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-#install_sysext() {
-#  SYSEXT="${1}"
-#  URL="https://extensions.fcos.fr/extensions"
-#  sudo install -d -m 0755 -o 0 -g 0 /etc/sysupdate.${SYSEXT}.d
-#  sudo restorecon -RFv /etc/sysupdate.${SYSEXT}.d
-#  curl --silent --fail --location "${URL}/${SYSEXT}.conf" \
-#    | sudo tee "/etc/sysupdate.${SYSEXT}.d/${SYSEXT}.conf"
-#  sudo /usr/lib/systemd/systemd-sysupdate update --component "${SYSEXT}"
-#}
-
-#uninstall_sysext() {
-#  SYSEXT="${1}"
-#  sudo rm -i "/var/lib/extensions/${SYSEXT}.raw"
-#  sudo rm -i "/var/lib/extensions.d/${SYSEXT}-"*".raw"
-#  sudo rm -i "/etc/sysupdate.${SYSEXT}.d/${SYSEXT}.conf"
-#  sudo rmdir "/etc/sysupdate.${SYSEXT}.d/"
-#}
-
-#update_sysext() {
-#for c in $(/usr/lib/systemd/systemd-sysupdate components --json=short | jq --raw-output '.components[]'); do
-#    sudo /usr/lib/systemd/systemd-sysupdate update --component "${c}"
-#done
-#}
-
-#export PATH="$PATH:~/.cargo/bin"
-# xremap bash completion
-#eval "$(xremap --completions bash)"
-# aliases
-#alias sudo=pkexec
 alias cls=clear
 alias ff=fastfetch
-#alias nano=vim
-#alias steam="flatpak run com.valvesoftware.Steam"
 
-function fup {
-sh "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
-chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup.sh"
-}
-
-function fed {
-nano "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
-chezmoi re-add "$HOME/.flatpak/flatpak-sync-backup-gen.sh"
-}
-
-alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
-#alias frep="sh ~/.flatpak/remove-fedora-repo.sh"
 
 function rced {
 nano "$HOME/.bashrc"
@@ -138,10 +95,4 @@ function ngc {
 alias zzz="sudo zzz"
 alias poweroff="sudo poweroff"
 alias reboot="sudo reboot"
-#function arup {
-#virsh connect qemu:///system
-#virsh start archlinux
-#}
-#alias rdext="sudo systemctl restart systemd-sysext.service"
-#alias sensors="nix-shell --run sensors"
-#source $HOME/.warp-comp.sh
+
