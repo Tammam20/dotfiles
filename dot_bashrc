@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Source global definitions
 if [ -f /etc/bashrc ]; then
     . /etc/bashrc
@@ -10,6 +9,8 @@ if ! [[ "$PATH" =~ $HOME/.local/bin:$HOME/bin: ]]; then
     PATH="$HOME/.local/bin:$HOME/bin:$PATH"
 fi
 export PATH
+
+. /run/current-system/sw/share/bash-completion/bash_completion
 
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
@@ -74,7 +75,6 @@ alias fin="sh ~/.flatpak/flatpak-sync-backup.sh"
 function rced {
 nano "$HOME/.bashrc"
 chezmoi re-add "$HOME/.bashrc"
-source "$HOME/.bashrc"
 source "$HOME/.bashrc"
 }
 
