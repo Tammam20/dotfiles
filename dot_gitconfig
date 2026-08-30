@@ -5,3 +5,5 @@
 [user]
 	email = whymewhyalwaysme@protonmail.com
 	name = Tammam20
+[init]
+	defaultBranch = master

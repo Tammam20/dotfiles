@@ -182,7 +182,7 @@ set $menu wmenu-run
 
     # Show the next scratchpad window or hide the focused scratchpad window.
     # If there are multiple scratchpad windows, this command cycles through them.
-    bindsym $mod+minus scratchpad show
+    bindsym $mod+minus scratchpad show 
 #
 # Resizing containers:
 #
@@ -233,10 +233,20 @@ bindsym $mod+r mode "resize"
 
     # Special key to take a screenshot with grim
     bindsym Print exec slurp | grim -g - $HOME/Pictures/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')
+    # record with special key
     bindsym XF86SelectiveScreenshot exec wf-recorder -g "$(slurp)" -f $HOME/Videos/$(date +'video_%Y-%m-%d-%H%M%S.mkv')
 
 	# sleep on lid close
 	bindswitch --reload --locked lid:on exec sudo zzz
+
+	# sleep with fn+4
+	bindsym --locked XF86Sleep exec sudo zzz
+
+	# settings
+	bindsym --locked XF86Tools exec dconf-editor
+
+	# keyboard
+	bindsym --locked XF86Keyboard input type:keyboard xkb_switch_layout next
 
 exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=sway  >/dev/null 2>&1
 
