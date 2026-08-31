@@ -95,4 +95,4 @@ function ngc {
 alias zzz="sudo zzz"
 alias poweroff="sudo poweroff"
 alias reboot="sudo reboot"
-. /run/current-system/sw/share/blesh/ble.sh 
+#. /run/current-system/sw/share/blesh/ble.sh 
