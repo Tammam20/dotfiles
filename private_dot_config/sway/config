@@ -257,6 +257,8 @@ exec pipewire >/dev/null 2>&1
 exec sleep 0.5 && pipewire-pulse >/dev/null 2>&1
 exec sleep 0.5 && wireplumber >/dev/null 2>&1
 
+exec gnome-keyring-daemon >/dev/null 2>&1
+
 #exec lxqt-policykit-agent  >/dev/null 2>&1
 
 # notify
