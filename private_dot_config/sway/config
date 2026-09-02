@@ -5,8 +5,8 @@ animation_duration_ms 250
 blur enable
 # blur_xray enables wallpaper blurring without blurring windows below
 blur_xray enable
-blur_passes 2
-blur_radius 2
+blur_passes 4
+blur_radius 4
 # blur_noise <float value 0 - 1>
 # blur_brightness <float value 0 - 2>
 # blur_contrast <float value 0 - 2>
@@ -17,6 +17,8 @@ blur_radius 2
 corner_radius 15
 gaps inner 15
 # corner radius needs gaps to be visible
+
+titlebar_separator disable
 
 # SwayFX also features window drop shadows, which, of course, can be enabled at any time
 shadows enable
