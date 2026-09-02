@@ -9,8 +9,9 @@
     "height": 45,
         "modules-left": [
         "sway/workspaces",
+        "sway/window",
         "sway/mode",
-        "sway/scratchpad"
+        "sway/scratchpad",
     ],
     
     "modules-right": [
