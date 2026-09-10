@@ -90,7 +90,7 @@ output * bg /home/tammam/Downloads/DemoDerby3_Screenshot_2026-09-02_19-21-53.png
    #pointer_accel 0
  # }
    input type:touchpad {
-       events disabled
+       events enabled
        dwt enabled
        tap enabled
        natural_scroll enabled

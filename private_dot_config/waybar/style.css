@@ -8,14 +8,13 @@
 
 window#waybar {
   background: none;
-  margin: 0px;
-  padding: 0px;
+  /*margin: 1px;
+  padding: 1px;*/
 }
 
-window#waybar.empty {
-    background-color: transparent;
-    /* or opacity: 0; */
-}   
+#waybar.empty #window {
+    background: none;
+}
 
 tooltip {
   background: rgba(40, 40, 40, 0.9);
@@ -259,8 +258,7 @@ tooltip {
   border-style: solid;
   border-color: #4986dd;
   border-radius: 4px;
-  margin-left: 0px;
-  margin-right: 10px;
+  margin-left: 4px;
   color: #ffffff;
 }
 
