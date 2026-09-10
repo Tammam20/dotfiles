@@ -14,6 +14,7 @@ window#waybar {
 
 #waybar.empty #window {
     background: none;
+    border: none;
 }
 
 tooltip {
