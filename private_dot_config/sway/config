@@ -1,6 +1,6 @@
 # SwayFX settings
 
-animation_duration_ms 250
+animation_duration_ms 180
 
 blur enable
 # blur_xray enables wallpaper blurring without blurring windows below
@@ -15,7 +15,7 @@ blur_radius 4
 # Window corners can be rounded in SwayFX
 # corner_radius can be any number of pixels
 corner_radius 15
-gaps inner 15
+gaps inner 5
 # corner radius needs gaps to be visible
 
 titlebar_separator disable
