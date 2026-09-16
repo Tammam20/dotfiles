@@ -60,7 +60,7 @@ set $menu wmenu-run
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in @datadir@/backgrounds/sway/)
-output * bg /home/tammam/Downloads/DemoDerby3_Screenshot_2026-09-02_19-21-53.png fill
+#output * bg /home/tammam/Downloads/DemoDerby3_Screenshot_2026-09-02_19-21-53.png fill
 #
 # Example configuration:
 #
