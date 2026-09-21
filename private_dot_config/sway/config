@@ -85,10 +85,10 @@ set $menu wmenu-run
 #
 # Example configuration:
 #
-#   input type:Pointer {
+   input type:pointer {
 #   accel_profile 
-   #pointer_accel 0
- # }
+   pointer_accel 1
+  }
    input type:touchpad {
        events disabled
        dwt enabled
