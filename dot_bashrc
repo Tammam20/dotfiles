@@ -30,7 +30,7 @@ alias ff=fastfetch
 
 
 function rced {
-nano "$HOME/.bashrc"
+$EDITOR "$HOME/.bashrc"
 chezmoi re-add "$HOME/.bashrc"
 source "$HOME/.bashrc"
 }
