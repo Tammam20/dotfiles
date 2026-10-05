@@ -50,22 +50,26 @@ git push
 function nup {
 cd "$HOME/finix-config" || return
 gup
+cd || return
 }
 function nrs {
 nup
 sudo nixos-rebuild switch --flake "$HOME/finix-config" --option access-tokens github.com="$(gh auth token)"
 nup
+cd || return
 }
 function nrb {
 nup
 sudo nixos-rebuild boot --flake "$HOME/finix-config" --option access-tokens github.com="$(gh auth token)"
 nup
+cd || return
 }
 function nfu {
 nup
 cd "$HOME/finix-config" || return
 nix flake update --option access-tokens github.com="$(gh auth token)"
 nup
+cd || return
 }
 
 function batfix {
