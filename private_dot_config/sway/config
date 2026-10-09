@@ -287,6 +287,12 @@ bindsym $mod+r mode "resize"
 	# keyboard
 	bindsym --locked XF86Keyboard input type:keyboard xkb_switch_layout next
 
+	# search(copy)
+	bindsym $mod+Shift+V exec cliphist list | wmenu | cliphist decode | wl-copy
+
+	# search(delete)
+	bindsym $mod+Alt+V exec cliphist list | wmenu | cliphist delete
+
 exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=sway  >/dev/null 2>&1
 
 #exec $HOME/pipewire-session.sh
