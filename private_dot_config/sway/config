@@ -113,7 +113,7 @@ set $menu wmenu-run
 #
     # Start a terminal
     bindsym $mod+Return exec $term
-    bindsym $mod+Shift+Return exec lutris
+    bindsym $mod+Shift+Return exec brave
 
     # Kill focused window
     bindsym $mod+Shift+q kill
