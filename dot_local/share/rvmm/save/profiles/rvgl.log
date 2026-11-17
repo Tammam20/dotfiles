@@ -708,7 +708,168 @@ Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
 Loading: packs/rvgl_assets/gfx/devlogo1a.bmp: Found
 Loading: packs/rvgl_assets/gfx/devlogo1b.bmp: Found
 Loading: packs/rvgl_assets/gfx/devlogo1c.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo2a.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo2b.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo2c.bmp: Found
 Loading: [Begin Level Load]
+Loading: profiles/tammam/intro.level: Not Found
+Loading: packs/game_files/levels/intro/intro.pan: Not Found
+Loading: packs/rvgl_assets/levels/intro/intro.inf: Found
+Loading: packs/game_files/levels/intro/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/rvgl_assets/levels/intro/introa.bmp: Found
+Loading: packs/rvgl_assets/levels/intro/introb.bmp: Found
+Warning: Could not find texture: 'levels/intro/introc.bmp'
+Warning: Could not find texture: 'levels/intro/introd.bmp'
+Warning: Could not find texture: 'levels/intro/introe.bmp'
+Warning: Could not find texture: 'levels/intro/introf.bmp'
+Warning: Could not find texture: 'levels/intro/introg.bmp'
+Warning: Could not find texture: 'levels/intro/introh.bmp'
+Warning: Could not find texture: 'levels/intro/introi.bmp'
+Warning: Could not find texture: 'levels/intro/introj.bmp'
+Loading: packs/rvgl_assets/levels/intro/intro.w: Found
+Loading: packs/rvgl_assets/levels/intro/intro.vis: Found
+World: Cubes 4  Buffers 4  Groups 4
+Loading: packs/rvgl_assets/levels/intro/intro.rim: Found
+Loading: packs/rvgl_assets/levels/intro/intro.fin: Found
+Loading: packs/rvgl_assets/levels/intro/intro.ncp: Found
+Loading: packs/rvgl_assets/levels/intro/intro.lit: Found
+Loading: packs/game_files/levels/intro/intro.taz: Not Found
+Loading: packs/game_files/levels/intro/intro.fan: Not Found
+Loading: packs/game_files/levels/intro/intro.fld: Not Found
+Loading: packs/game_files/levels/intro/intro.pan: Not Found
+Loading: packs/game_files/levels/intro/intro.cam: Not Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/intro/intro.tri: Not Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/intro/custom_animations.txt: Not Found
+Loading: packs/game_files/levels/intro/intro.fob: Not Found
+Loading: packs/rvgl_assets/cars/ufo/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/ufo/car.bmp: Found
+Loading: packs/game_files/cars/ufo/car.bmq: Found
+Loading: packs/rvgl_assets/cars/ufo/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/ufo/shadow.bmq: Found
+Loading: packs/game_files/cars/ufo/body.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/ufo/hull.hul: Found
+Loading: packs/game_files/cars/rc/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "90.000000"
+Loading: packs/game_files/cars/rc/car.bmp: Found
+Loading: packs/game_files/cars/rc/car.bmq: Found
+Loading: packs/game_files/cars/rc/body.prm: Found
+Loading: packs/game_files/cars/rc/wheelfl.prm: Found
+Loading: packs/game_files/cars/rc/wheelfr.prm: Found
+Loading: packs/game_files/cars/rc/wheelbl.prm: Found
+Loading: packs/game_files/cars/rc/wheelbr.prm: Found
+Loading: packs/game_files/cars/rc/spring.prm: Found
+Loading: packs/game_files/cars/rc/axle.prm: Found
+Loading: packs/game_files/cars/rc/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/rc/hull.hul: Found
+Loading: packs/game_files/cars/flag/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/flag/car.bmp: Found
+Loading: packs/game_files/cars/flag/car.bmq: Found
+Loading: packs/game_files/cars/flag/body.prm: Found
+Loading: packs/game_files/cars/flag/wheelfl.prm: Found
+Loading: packs/game_files/cars/flag/wheelfr.prm: Found
+Loading: packs/game_files/cars/flag/wheelbl.prm: Found
+Loading: packs/game_files/cars/flag/wheelbr.prm: Found
+Loading: packs/game_files/cars/flag/spring.prm: Found
+Loading: packs/game_files/cars/flag/axle.prm: Found
+Loading: packs/game_files/cars/flag/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/flag/hull.hul: Found
+Loading: [End Level Load] (231 ms)
+Loading: packs/game_files/models/probe.m: Found
+Loading: packs/game_files/models/probe.hul: Found
+Loading: packs/rvgl_assets/levels/intro/ufopath.pth: Found
+Loading: [Begin Level Load]
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
 Loading: profiles/tammam/frontend.level: Not Found
 Loading: packs/game_files/levels/frontend/frontend.pan: Found
 Loading: packs/game_files/gfx/loadfront1.bmp: Found
@@ -895,8 +1056,8 @@ Loading: packs/game_files/models/cone.hul: Found
 Loading: packs/game_files/levels/frontend/bigscreen.m: Found
 Loading: packs/game_files/levels/frontend/bigscreen.hul: Not Found
 Loading: packs/game_files/levels/frontend/bigscreen.ncp: Not Found
-Loading: packs/game_files/gfx/wild_west1.bmp: Found
-Loading: packs/game_files/gfx/wild_west1.bmq: Found
+Loading: packs/game_files/gfx/muse1.bmp: Found
+Loading: packs/game_files/gfx/muse1.bmq: Found
 Loading: packs/game_files/levels/frontend/clockbody.m: Found
 Loading: packs/game_files/levels/frontend/clockbody.hul: Not Found
 Loading: packs/game_files/levels/frontend/clockbody.ncp: Not Found
@@ -971,52 +1132,1741 @@ Loading: packs/game_files/cars/misc/aerialt.m: Found
 Loading: packs/game_files/cars/wincar3/hull.hul: Found
 Loading: packs/game_files/redbook/track02.wav: Not Found
 Loading: packs/soundtrack/redbook/track02.ogg: Found
-Loading: [End Level Load] (1445 ms)
+Loading: [End Level Load] (1511 ms)
 Loading: packs/game_files/levels/frontend/frontend.txt: Not Found
 Loading: packs/rvgl_assets/cars/misc/carbox1.bmp: Found
 Loading: packs/rvgl_assets/cars/misc/carbox2.bmp: Found
 Loading: packs/rvgl_assets/cars/misc/carbox3.bmp: Found
 Loading: packs/rvgl_assets/cars/misc/carbox4.bmp: Found
 Loading: packs/rvgl_assets/cars/misc/carbox5.bmp: Found
-Loading: packs/game_files/levels/wild_west1/wild_west1.pan: Found
-Loading: packs/game_files/levels/wild_west1/wild_west1.pan: Found
-Loading: packs/game_files/levels/wild_west1/wild_west1.pan: Found
-Loading: packs/game_files/levels/toylite/toylite.pan: Found
-Loading: packs/game_files/gfx/toylite.bmp: Found
-Loading: packs/game_files/gfx/toylite.bmq: Found
-Loading: packs/rvgl_dcpack/levels/roof/roof.pan: Found
-Loading: packs/rvgl_dcpack/gfx/roof.bmp: Found
-Loading: packs/rvgl_dcpack/gfx/roof.bmq: Found
-Loading: packs/game_files/levels/garden1/garden1.pan: Found
-Loading: packs/game_files/gfx/garden1.bmp: Found
-Loading: packs/game_files/gfx/garden1.bmq: Found
-Loading: packs/game_files/levels/muse2/muse2.pan: Found
-Loading: packs/game_files/gfx/muse2.bmp: Found
-Loading: packs/game_files/gfx/muse2.bmq: Found
-Loading: packs/game_files/levels/market2/market2.pan: Found
-Loading: packs/game_files/gfx/market2.bmp: Found
-Loading: packs/game_files/gfx/market2.bmq: Found
-Loading: packs/game_files/levels/muse2/muse2.pan: Found
-Loading: packs/game_files/levels/garden1/garden1.pan: Found
-Loading: packs/game_files/gfx/garden1.bmp: Found
-Loading: packs/game_files/gfx/garden1.bmq: Found
-Loading: packs/game_files/levels/muse2/muse2.pan: Found
-Loading: packs/game_files/levels/market2/market2.pan: Found
-Loading: packs/game_files/gfx/market2.bmp: Found
-Loading: packs/game_files/gfx/market2.bmq: Found
-Loading: packs/game_files/levels/nhood1/nhood1.pan: Found
-Loading: packs/game_files/gfx/nhood1.bmp: Found
-Loading: packs/game_files/gfx/nhood1.bmq: Found
-Loading: packs/game_files/levels/ship2/ship2.pan: Found
-Loading: packs/game_files/gfx/ship2.bmp: Found
-Loading: packs/game_files/gfx/ship2.bmq: Found
-Loading: packs/game_files/levels/wild_west2/wild_west2.pan: Found
-Loading: packs/game_files/gfx/wild_west2.bmp: Found
-Loading: packs/game_files/gfx/wild_west2.bmq: Found
-Loading: packs/game_files/levels/market1/market1.pan: Found
-Loading: packs/game_files/gfx/market1.bmp: Found
-Loading: packs/game_files/gfx/market1.bmq: Found
 Loading: packs/game_files/levels/muse1/muse1.pan: Found
+Loading: profiles/rvgl.ini: Found
+Loading: profiles/tammam/profile.ini: Found
+Loading: profiles/tammam/nhood1.level: Found
+Loading: profiles/tammam/market2.level: Found
+Loading: profiles/tammam/muse2.level: Found
+Loading: profiles/tammam/garden1.level: Found
+Loading: profiles/tammam/roof.level: Found
+Loading: profiles/tammam/toylite.level: Found
+Loading: profiles/tammam/wild_west1.level: Found
+Loading: profiles/tammam/toy2.level: Found
+Loading: profiles/tammam/nhood2.level: Found
+Loading: profiles/tammam/ship1.level: Found
+Loading: profiles/tammam/muse1.level: Found
+Loading: profiles/tammam/market1.level: Found
+Loading: profiles/tammam/wild_west2.level: Found
+Loading: profiles/tammam/ship2.level: Found
+Loading: profiles/tammam/stunts.stunt: Found
+Loading: [Begin Level Load]
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2.pan: Found
+Loading: packs/game_files/gfx/loadlevel1.bmp: Found
+Loading: packs/game_files/gfx/loadlevel2.bmp: Found
+Loading: packs/game_files/gfx/loadlevel3.bmp: Found
+Loading: packs/game_files/gfx/loadlevel4.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2.inf: Found
+Loading: packs/game_files/levels/nhood2/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2a.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2a.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2b.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2b.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2c.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2c.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2d.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2d.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2e.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2e.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2f.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2f.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2g.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2g.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2h.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2h.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2i.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2i.bmq: Found
+Loading: packs/game_files/levels/nhood2/nhood2j.bmp: Found
+Loading: packs/game_files/levels/nhood2/nhood2j.bmq: Found
+Loading: packs/rvgl_assets/levels/nhood2/nhood2.w: Found
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Loading: packs/game_files/levels/nhood2/nhood2.vis: Found
+World: Cubes 46  Buffers 1286  Groups 290
+Loading: packs/game_files/levels/nhood2/nhood2.rim: Found
+Loading: packs/game_files/levels/nhood2/table.prm: Found
+Loading: packs/game_files/levels/nhood2/table.ncp: Found
+Loading: packs/game_files/levels/nhood2/house2.prm: Found
+Loading: packs/game_files/levels/nhood2/house2.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/reed1.prm: Found
+Loading: packs/game_files/levels/nhood2/reed1.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/tree1.prm: Found
+Loading: packs/game_files/levels/nhood2/tree1.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/treetest1.prm: Found
+Loading: packs/game_files/levels/nhood2/treetest1.ncp: Found
+Loading: packs/game_files/levels/nhood2/bmw.prm: Found
+Loading: packs/game_files/levels/nhood2/bmw.ncp: Found
+Loading: packs/game_files/levels/nhood2/skate.prm: Found
+Loading: packs/game_files/levels/nhood2/skate.ncp: Found
+Loading: packs/game_files/levels/nhood2/bmw_w.prm: Found
+Loading: packs/game_files/levels/nhood2/bmw_w.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/stool.prm: Found
+Loading: packs/game_files/levels/nhood2/stool.ncp: Found
+Loading: packs/game_files/levels/nhood2/dogb.prm: Found
+Loading: packs/game_files/levels/nhood2/dogb.ncp: Found
+Loading: packs/game_files/levels/nhood2/sflower2.prm: Found
+Loading: packs/game_files/levels/nhood2/sflower2.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/reed3.prm: Found
+Loading: packs/game_files/levels/nhood2/reed3.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/tree2.prm: Found
+Loading: packs/game_files/levels/nhood2/tree2.ncp: Found
+Loading: packs/game_files/levels/nhood2/bin.prm: Found
+Loading: packs/game_files/levels/nhood2/bin.ncp: Found
+Loading: packs/game_files/levels/nhood2/hoop.prm: Found
+Loading: packs/game_files/levels/nhood2/hoop.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/sflower3.prm: Found
+Loading: packs/game_files/levels/nhood2/sflower3.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/ramp3.prm: Found
+Loading: packs/game_files/levels/nhood2/ramp3.ncp: Found
+Loading: packs/game_files/levels/nhood2/start.prm: Found
+Loading: packs/game_files/levels/nhood2/start.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/bmw2.prm: Found
+Loading: packs/game_files/levels/nhood2/bmw2.ncp: Found
+Loading: packs/game_files/levels/nhood2/sflower.prm: Found
+Loading: packs/game_files/levels/nhood2/sflower.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/dustbin.prm: Found
+Loading: packs/game_files/levels/nhood2/dustbin.ncp: Found
+Loading: packs/game_files/levels/nhood2/lampost.prm: Found
+Loading: packs/game_files/levels/nhood2/lampost.ncp: Found
+Loading: packs/game_files/levels/nhood2/reed2.prm: Found
+Loading: packs/game_files/levels/nhood2/reed2.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/pants.prm: Found
+Loading: packs/game_files/levels/nhood2/pants.ncp: Found
+Loading: packs/game_files/levels/nhood2/house1.prm: Found
+Loading: packs/game_files/levels/nhood2/house1.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/nhood2.fin: Found
+Loading: packs/rvgl_assets/levels/nhood2/nhood2.ncp: Found
+Loading: packs/game_files/levels/nhood2/nhood2.lit: Found
+Loading: packs/game_files/levels/nhood2/nhood2.taz: Found
+Loading: packs/game_files/levels/nhood2/nhood2.fan: Found
+Loading: packs/game_files/levels/nhood2/nhood2.fld: Found
+Loading: packs/game_files/levels/nhood2/nhood2.pan: Found
+Loading: packs/game_files/levels/nhood2/nhood2.cam: Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/nhood2/nhood2.tri: Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/custom_animations.txt: Not Found
+Loading: packs/game_files/levels/nhood2/nhood2.fob: Found
+Warning: Generated 56 clouds (out of 64) before giving up
+Loading: packs/game_files/gfx/clouds.bmp: Found
+Loading: packs/game_files/gfx/clouds.bmq: Found
+Loading: packs/game_files/models/stream.m: Found
+Loading: packs/game_files/models/stream.hul: Not Found
+Loading: packs/game_files/models/stream.ncp: Not Found
+Loading: packs/game_files/levels/nhood2/water.bmp: Found
+Loading: packs/game_files/levels/nhood2/water.bmq: Found
+Loading: packs/game_files/models/sphose.m: Found
+Loading: packs/game_files/models/sphose.hul: Not Found
+Loading: packs/game_files/models/sphose.ncp: Found
+Loading: packs/game_files/models/spbase.m: Found
+Loading: packs/game_files/models/spbase.hul: Not Found
+Loading: packs/game_files/models/spbase.ncp: Found
+Loading: packs/game_files/models/sphead.m: Found
+Loading: packs/game_files/models/sphead.hul: Not Found
+Loading: packs/game_files/models/sphead.ncp: Not Found
+Loading: packs/game_files/wavs/hood/sprink.wav: Found
+Loading: packs/game_files/wavs/hood/stream.wav: Found
+Loading: packs/game_files/models/n2trafficcone.m: Found
+Loading: packs/game_files/models/n2trafficcone.hul: Found
+Loading: packs/game_files/wavs/hood/roadcone.wav: Found
+Loading: packs/game_files/wavs/hood/birds1.wav: Found
+Loading: packs/game_files/wavs/hood/birds2.wav: Found
+Loading: packs/game_files/wavs/hood/birds3.wav: Found
+Loading: packs/game_files/wavs/hood/lawnmower.wav: Found
+Loading: packs/game_files/wavs/hood/dogbark.wav: Found
+Loading: packs/game_files/cars/r5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/r5/car.bmp: Found
+Loading: packs/game_files/cars/r5/car.bmq: Found
+Loading: packs/game_files/cars/r5/body.prm: Found
+Loading: packs/game_files/cars/r5/wheelfl.prm: Found
+Loading: packs/game_files/cars/r5/wheelfr.prm: Found
+Loading: packs/game_files/cars/r5/wheelbl.prm: Found
+Loading: packs/game_files/cars/r5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/r5/hull.hul: Found
+Loading: packs/game_files/cars/sgt/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/sgt/car.bmp: Found
+Loading: packs/game_files/cars/sgt/car.bmq: Found
+Loading: packs/game_files/cars/sgt/body.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfr.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbr.prm: Found
+Loading: packs/game_files/cars/sgt/axle.prm: Found
+Loading: packs/game_files/cars/sgt/radar.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/sgt/hull.hul: Found
+Loading: packs/game_files/cars/flag/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/flag/car.bmp: Found
+Loading: packs/game_files/cars/flag/car.bmq: Found
+Loading: packs/game_files/cars/flag/body.prm: Found
+Loading: packs/game_files/cars/flag/wheelfl.prm: Found
+Loading: packs/game_files/cars/flag/wheelfr.prm: Found
+Loading: packs/game_files/cars/flag/wheelbl.prm: Found
+Loading: packs/game_files/cars/flag/wheelbr.prm: Found
+Loading: packs/game_files/cars/flag/spring.prm: Found
+Loading: packs/game_files/cars/flag/axle.prm: Found
+Loading: packs/game_files/cars/flag/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/flag/hull.hul: Found
+Loading: packs/game_files/cars/tc2/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc2/car.bmp: Found
+Loading: packs/game_files/cars/tc2/car.bmq: Found
+Loading: packs/game_files/cars/tc2/body.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc2/hull.hul: Found
+Loading: packs/game_files/cars/tc5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc5/car.bmp: Found
+Loading: packs/game_files/cars/tc5/car.bmq: Found
+Loading: packs/game_files/cars/tc5/body.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc5/hull.hul: Found
+Loading: packs/game_files/cars/adeon/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/adeon/car.bmp: Found
+Loading: packs/game_files/cars/adeon/car.bmq: Found
+Loading: packs/game_files/cars/adeon/body.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfr.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/adeon/hull.hul: Found
+Loading: packs/game_files/cars/tc3/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc3/car.bmp: Found
+Loading: packs/game_files/cars/tc3/car.bmq: Found
+Loading: packs/game_files/cars/tc3/body.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc3/hull.hul: Found
+Loading: packs/game_files/cars/tc1/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc1/car.bmp: Found
+Loading: packs/game_files/cars/tc1/car.bmq: Found
+Loading: packs/game_files/cars/tc1/body.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc1/hull.hul: Found
+Loading: packs/game_files/redbook/track05.wav: Not Found
+Loading: packs/soundtrack/redbook/track05.ogg: Found
+Loading: [End Level Load] (1297 ms)
+Loading: profiles/rvgl.ini: Found
+Loading: profiles/tammam/profile.ini: Found
+Loading: profiles/tammam/nhood1.level: Found
+Loading: profiles/tammam/market2.level: Found
+Loading: profiles/tammam/muse2.level: Found
+Loading: profiles/tammam/garden1.level: Found
+Loading: profiles/tammam/roof.level: Found
+Loading: profiles/tammam/toylite.level: Found
+Loading: profiles/tammam/wild_west1.level: Found
+Loading: profiles/tammam/toy2.level: Found
+Loading: profiles/tammam/nhood2.level: Found
+Loading: profiles/tammam/ship1.level: Found
+Loading: profiles/tammam/muse1.level: Found
+Loading: profiles/tammam/market1.level: Found
+Loading: profiles/tammam/wild_west2.level: Found
+Loading: profiles/tammam/ship2.level: Found
+Loading: profiles/tammam/stunts.stunt: Found
+Loading: [Begin Level Load]
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
+Loading: packs/game_files/levels/toylite/toylite.pan: Found
+Loading: packs/game_files/gfx/loadlevel1.bmp: Found
+Loading: packs/game_files/gfx/loadlevel2.bmp: Found
+Loading: packs/game_files/gfx/loadlevel3.bmp: Found
+Loading: packs/game_files/gfx/loadlevel4.bmp: Found
+Loading: packs/game_files/levels/toylite/toylite.inf: Found
+Loading: packs/game_files/levels/toylite/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/game_files/levels/toylite/toylitea.bmp: Found
+Loading: packs/game_files/levels/toylite/toylitea.bmq: Found
+Loading: packs/game_files/levels/toylite/toyliteb.bmp: Found
+Loading: packs/game_files/levels/toylite/toyliteb.bmq: Found
+Loading: packs/game_files/levels/toylite/toylitec.bmp: Found
+Loading: packs/game_files/levels/toylite/toylitec.bmq: Found
+Loading: packs/game_files/levels/toylite/toylited.bmp: Found
+Loading: packs/game_files/levels/toylite/toylited.bmq: Found
+Loading: packs/game_files/levels/toylite/toylitee.bmp: Found
+Loading: packs/game_files/levels/toylite/toylitee.bmq: Found
+Loading: packs/game_files/levels/toylite/toylitef.bmp: Found
+Loading: packs/game_files/levels/toylite/toylitef.bmq: Found
+Loading: packs/game_files/levels/toylite/toyliteg.bmp: Found
+Loading: packs/game_files/levels/toylite/toyliteg.bmq: Found
+Warning: Could not find texture: 'levels/toylite/toyliteh.bmp'
+Warning: Could not find texture: 'levels/toylite/toylitei.bmp'
+Warning: Could not find texture: 'levels/toylite/toylitej.bmp'
+Loading: packs/rvgl_assets/levels/toylite/toylite.w: Found
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Loading: packs/game_files/levels/toylite/toylite.vis: Found
+World: Cubes 26  Buffers 1999  Groups 125
+Loading: packs/game_files/levels/toylite/toylite.rim: Found
+Loading: packs/game_files/levels/toylite/drawer.prm: Found
+Loading: packs/game_files/levels/toylite/drawer.ncp: Found
+Loading: packs/game_files/levels/toylite/float.prm: Found
+Loading: packs/game_files/levels/toylite/float.ncp: Found
+Loading: packs/game_files/levels/toylite/truck.prm: Found
+Loading: packs/game_files/levels/toylite/truck.ncp: Not Found
+Loading: packs/game_files/levels/toylite/walker.prm: Found
+Loading: packs/game_files/levels/toylite/walker.ncp: Found
+Loading: packs/game_files/levels/toylite/carboxc.prm: Found
+Loading: packs/game_files/levels/toylite/carboxc.ncp: Found
+Loading: packs/game_files/levels/toylite/cardbox.prm: Found
+Loading: packs/game_files/levels/toylite/cardbox.ncp: Found
+Loading: packs/game_files/levels/toylite/hidepoly.prm: Found
+Loading: packs/game_files/levels/toylite/hidepoly.ncp: Not Found
+Loading: packs/game_files/levels/toylite/chest.prm: Found
+Loading: packs/game_files/levels/toylite/chest.ncp: Found
+Loading: packs/game_files/levels/toylite/carboxb.prm: Found
+Loading: packs/game_files/levels/toylite/carboxb.ncp: Found
+Loading: packs/game_files/levels/toylite/ball.prm: Found
+Loading: packs/game_files/levels/toylite/ball.ncp: Not Found
+Loading: packs/game_files/levels/toylite/genboxd.prm: Found
+Loading: packs/game_files/levels/toylite/genboxd.ncp: Found
+Loading: packs/game_files/levels/toylite/carboxa.prm: Found
+Loading: packs/game_files/levels/toylite/carboxa.ncp: Found
+Loading: packs/game_files/levels/toylite/dozer.prm: Found
+Loading: packs/game_files/levels/toylite/dozer.ncp: Found
+Loading: packs/game_files/levels/toylite/genboxb.prm: Found
+Loading: packs/game_files/levels/toylite/genboxb.ncp: Found
+Loading: packs/game_files/levels/toylite/mrfuzz.prm: Found
+Loading: packs/game_files/levels/toylite/mrfuzz.ncp: Not Found
+Loading: packs/game_files/levels/toylite/spire.prm: Found
+Loading: packs/game_files/levels/toylite/spire.ncp: Found
+Loading: packs/game_files/levels/toylite/book.prm: Found
+Loading: packs/game_files/levels/toylite/book.ncp: Found
+Loading: packs/game_files/levels/toylite/genboxc.prm: Found
+Loading: packs/game_files/levels/toylite/genboxc.ncp: Found
+Loading: packs/game_files/levels/toylite/genbox.prm: Found
+Loading: packs/game_files/levels/toylite/genbox.ncp: Found
+Loading: packs/game_files/levels/toylite/cabinet.prm: Found
+Loading: packs/game_files/levels/toylite/cabinet.ncp: Found
+Loading: packs/game_files/levels/toylite/crane.prm: Found
+Loading: packs/game_files/levels/toylite/crane.ncp: Found
+Loading: packs/game_files/levels/toylite/rocketpad.prm: Found
+Loading: packs/game_files/levels/toylite/rocketpad.ncp: Found
+Loading: packs/game_files/levels/toylite/palm.prm: Found
+Loading: packs/game_files/levels/toylite/palm.ncp: Not Found
+Loading: packs/game_files/levels/toylite/teddy.prm: Found
+Loading: packs/game_files/levels/toylite/teddy.ncp: Found
+Loading: packs/game_files/levels/toylite/robot.prm: Found
+Loading: packs/game_files/levels/toylite/robot.ncp: Not Found
+Loading: packs/game_files/levels/toylite/hopper.prm: Found
+Loading: packs/game_files/levels/toylite/hopper.ncp: Not Found
+Loading: packs/game_files/levels/toylite/bigroc.prm: Found
+Loading: packs/game_files/levels/toylite/bigroc.ncp: Not Found
+Loading: packs/game_files/levels/toylite/cabine.prm: Found
+Loading: packs/game_files/levels/toylite/cabine.ncp: Not Found
+Loading: packs/game_files/levels/toylite/bspotgl.prm: Found
+Loading: packs/game_files/levels/toylite/bspotgl.ncp: Not Found
+Loading: packs/game_files/levels/toylite/shelf.prm: Found
+Loading: packs/game_files/levels/toylite/shelf.ncp: Not Found
+Loading: packs/game_files/levels/toylite/bot_box.prm: Found
+Loading: packs/game_files/levels/toylite/bot_box.ncp: Found
+Loading: packs/game_files/levels/toylite/gator.prm: Found
+Loading: packs/game_files/levels/toylite/gator.ncp: Found
+Loading: packs/game_files/levels/toylite/duplo.prm: Found
+Loading: packs/game_files/levels/toylite/duplo.ncp: Found
+Loading: packs/game_files/levels/toylite/picket.prm: Found
+Loading: packs/game_files/levels/toylite/picket.ncp: Found
+Loading: packs/game_files/levels/toylite/tallbox.prm: Found
+Loading: packs/game_files/levels/toylite/tallbox.ncp: Not Found
+Loading: packs/game_files/levels/toylite/carboxd.prm: Found
+Loading: packs/game_files/levels/toylite/carboxd.ncp: Found
+Loading: packs/game_files/levels/toylite/spotgl.prm: Found
+Loading: packs/game_files/levels/toylite/spotgl.ncp: Not Found
+Loading: packs/game_files/levels/toylite/bigrocket.prm: Found
+Loading: packs/game_files/levels/toylite/bigrocket.ncp: Not Found
+Loading: packs/game_files/levels/toylite/nelly.prm: Found
+Loading: packs/game_files/levels/toylite/nelly.ncp: Found
+Loading: packs/game_files/levels/toylite/toylite.fin: Found
+Loading: packs/rvgl_assets/levels/toylite/toylite.ncp: Found
+Loading: packs/game_files/levels/toylite/toylite.lit: Found
+Loading: packs/game_files/levels/toylite/toylite.taz: Found
+Loading: packs/game_files/levels/toylite/toylite.fan: Found
+Loading: packs/game_files/levels/toylite/toylite.fld: Found
+Loading: packs/game_files/levels/toylite/toylite.pan: Found
+Loading: packs/game_files/levels/toylite/toylite.cam: Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/toylite/toylite.tri: Found
+Loading: packs/game_files/wavs/toy/piano.wav: Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/toylite/custom_animations.txt: Not Found
+Loading: packs/game_files/levels/toylite/toylite.fob: Found
+Loading: packs/game_files/models/horse.m: Found
+Loading: packs/game_files/models/horse.hul: Not Found
+Loading: packs/game_files/models/horse.ncp: Not Found
+Loading: packs/game_files/wavs/toy/creak.wav: Found
+Loading: packs/game_files/models/balloon.m: Found
+Loading: packs/game_files/models/balloon.hul: Not Found
+Loading: packs/game_files/models/balloon.ncp: Not Found
+Loading: packs/game_files/models/radar.m: Found
+Loading: packs/game_files/models/radar.hul: Not Found
+Loading: packs/game_files/models/radar.ncp: Not Found
+Loading: packs/game_files/models/boat2.m: Found
+Loading: packs/game_files/models/boat2.hul: Not Found
+Loading: packs/game_files/models/boat2.ncp: Not Found
+Loading: packs/game_files/models/boat1.m: Found
+Loading: packs/game_files/models/boat1.hul: Not Found
+Loading: packs/game_files/models/boat1.ncp: Not Found
+Loading: packs/game_files/models/plane.m: Found
+Loading: packs/game_files/models/plane.hul: Not Found
+Loading: packs/game_files/models/plane.ncp: Not Found
+Loading: packs/game_files/models/plane2.m: Found
+Loading: packs/game_files/models/plane2.hul: Not Found
+Loading: packs/game_files/models/plane2.ncp: Not Found
+Loading: packs/game_files/wavs/toy/plane.wav: Found
+Loading: packs/game_files/models/copter.m: Found
+Loading: packs/game_files/models/copter.hul: Not Found
+Loading: packs/game_files/models/copter.ncp: Not Found
+Loading: packs/game_files/models/copter2.m: Found
+Loading: packs/game_files/models/copter2.hul: Not Found
+Loading: packs/game_files/models/copter2.ncp: Not Found
+Loading: packs/game_files/models/copter3.m: Found
+Loading: packs/game_files/models/copter3.hul: Not Found
+Loading: packs/game_files/models/copter3.ncp: Not Found
+Loading: packs/game_files/wavs/toy/copter.wav: Found
+Loading: packs/game_files/models/water.m: Found
+Loading: packs/game_files/models/water.hul: Not Found
+Loading: packs/game_files/models/water.ncp: Not Found
+Loading: packs/game_files/levels/toylite/water.bmp: Found
+Loading: packs/game_files/levels/toylite/water.bmq: Found
+Loading: packs/game_files/models/beachball.m: Found
+Loading: packs/game_files/models/beachball.hul: Not Found
+Loading: packs/game_files/models/beachball.ncp: Not Found
+Loading: packs/game_files/wavs/beachball.wav: Found
+Loading: packs/game_files/wavs/toy/arcade.wav: Found
+Loading: packs/game_files/models/abcblock.m: Found
+Loading: packs/game_files/models/abcblock.hul: Found
+Loading: packs/game_files/wavs/toy/toybrick.wav: Found
+Loading: packs/game_files/cars/r5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/r5/car.bmp: Found
+Loading: packs/game_files/cars/r5/car.bmq: Found
+Loading: packs/game_files/cars/r5/body.prm: Found
+Loading: packs/game_files/cars/r5/wheelfl.prm: Found
+Loading: packs/game_files/cars/r5/wheelfr.prm: Found
+Loading: packs/game_files/cars/r5/wheelbl.prm: Found
+Loading: packs/game_files/cars/r5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/r5/hull.hul: Found
+Loading: packs/game_files/cars/sgt/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/sgt/car.bmp: Found
+Loading: packs/game_files/cars/sgt/car.bmq: Found
+Loading: packs/game_files/cars/sgt/body.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfr.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbr.prm: Found
+Loading: packs/game_files/cars/sgt/axle.prm: Found
+Loading: packs/game_files/cars/sgt/radar.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/sgt/hull.hul: Found
+Loading: packs/game_files/cars/flag/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/flag/car.bmp: Found
+Loading: packs/game_files/cars/flag/car.bmq: Found
+Loading: packs/game_files/cars/flag/body.prm: Found
+Loading: packs/game_files/cars/flag/wheelfl.prm: Found
+Loading: packs/game_files/cars/flag/wheelfr.prm: Found
+Loading: packs/game_files/cars/flag/wheelbl.prm: Found
+Loading: packs/game_files/cars/flag/wheelbr.prm: Found
+Loading: packs/game_files/cars/flag/spring.prm: Found
+Loading: packs/game_files/cars/flag/axle.prm: Found
+Loading: packs/game_files/cars/flag/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/flag/hull.hul: Found
+Loading: packs/game_files/cars/tc2/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc2/car.bmp: Found
+Loading: packs/game_files/cars/tc2/car.bmq: Found
+Loading: packs/game_files/cars/tc2/body.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc2/hull.hul: Found
+Loading: packs/game_files/cars/tc5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc5/car.bmp: Found
+Loading: packs/game_files/cars/tc5/car.bmq: Found
+Loading: packs/game_files/cars/tc5/body.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc5/hull.hul: Found
+Loading: packs/game_files/cars/adeon/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/adeon/car.bmp: Found
+Loading: packs/game_files/cars/adeon/car.bmq: Found
+Loading: packs/game_files/cars/adeon/body.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfr.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/adeon/hull.hul: Found
+Loading: packs/game_files/cars/tc3/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc3/car.bmp: Found
+Loading: packs/game_files/cars/tc3/car.bmq: Found
+Loading: packs/game_files/cars/tc3/body.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc3/hull.hul: Found
+Loading: packs/game_files/cars/tc1/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc1/car.bmp: Found
+Loading: packs/game_files/cars/tc1/car.bmq: Found
+Loading: packs/game_files/cars/tc1/body.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc1/hull.hul: Found
+Loading: packs/game_files/redbook/track05.wav: Not Found
+Loading: packs/soundtrack/redbook/track05.ogg: Found
+Loading: [End Level Load] (2210 ms)
+Loading: profiles/rvgl.ini: Found
+Loading: profiles/tammam/profile.ini: Found
+Loading: profiles/tammam/nhood1.level: Found
+Loading: profiles/tammam/market2.level: Found
+Loading: profiles/tammam/muse2.level: Found
+Loading: profiles/tammam/garden1.level: Found
+Loading: profiles/tammam/roof.level: Found
+Loading: profiles/tammam/toylite.level: Found
+Loading: profiles/tammam/wild_west1.level: Found
+Loading: profiles/tammam/toy2.level: Found
+Loading: profiles/tammam/nhood2.level: Found
+Loading: profiles/tammam/ship1.level: Found
+Loading: profiles/tammam/muse1.level: Found
+Loading: profiles/tammam/market1.level: Found
+Loading: profiles/tammam/wild_west2.level: Found
+Loading: profiles/tammam/ship2.level: Found
+Loading: profiles/tammam/stunts.stunt: Found
+Loading: [Begin Level Load]
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1.pan: Found
+Loading: packs/game_files/gfx/loadlevel1.bmp: Found
+Loading: packs/game_files/gfx/loadlevel2.bmp: Found
+Loading: packs/game_files/gfx/loadlevel3.bmp: Found
+Loading: packs/game_files/gfx/loadlevel4.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1.inf: Found
+Loading: packs/game_files/levels/ship1/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1a.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1a.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1b.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1b.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1c.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1c.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1d.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1d.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1e.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1e.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1f.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1f.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1g.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1g.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1h.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1h.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1i.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1i.bmq: Found
+Loading: packs/game_files/levels/ship1/ship1j.bmp: Found
+Loading: packs/game_files/levels/ship1/ship1j.bmq: Found
+Loading: packs/rvgl_assets/levels/ship1/ship1.w: Found
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Warning: Fixing flawed world normal
+Loading: packs/game_files/levels/ship1/ship1.vis: Found
+World: Cubes 51  Buffers 1551  Groups 289
+Loading: packs/game_files/levels/ship1/ship1.rim: Not Found
+Loading: packs/game_files/levels/ship1/deckseat2.prm: Found
+Loading: packs/game_files/levels/ship1/deckseat2.ncp: Found
+Loading: packs/game_files/levels/ship1/shadow3.prm: Found
+Loading: packs/game_files/levels/ship1/shadow3.ncp: Not Found
+Loading: packs/game_files/levels/ship1/davit2.prm: Found
+Loading: packs/game_files/levels/ship1/davit2.ncp: Found
+Loading: packs/game_files/levels/ship1/davit.prm: Found
+Loading: packs/game_files/levels/ship1/davit.ncp: Found
+Loading: packs/game_files/levels/ship1/deckramp.prm: Found
+Loading: packs/game_files/levels/ship1/deckramp.ncp: Found
+Loading: packs/game_files/levels/ship1/lifebelt.prm: Found
+Loading: packs/game_files/levels/ship1/lifebelt.ncp: Found
+Loading: packs/game_files/levels/ship1/lifebeltstart.prm: Found
+Loading: packs/game_files/levels/ship1/lifebeltstart.ncp: Found
+Loading: packs/game_files/levels/ship1/shadow1.prm: Found
+Loading: packs/game_files/levels/ship1/shadow1.ncp: Not Found
+Loading: packs/game_files/levels/ship1/beltstart.prm: Found
+Loading: packs/game_files/levels/ship1/beltstart.ncp: Found
+Loading: packs/game_files/levels/ship1/deckseat.prm: Found
+Loading: packs/game_files/levels/ship1/deckseat.ncp: Found
+Loading: packs/game_files/levels/ship1/shadow4.prm: Found
+Loading: packs/game_files/levels/ship1/shadow4.ncp: Not Found
+Loading: packs/game_files/levels/ship1/lifeboat.prm: Found
+Loading: packs/game_files/levels/ship1/lifeboat.ncp: Found
+Loading: packs/game_files/levels/ship1/panel1.prm: Found
+Loading: packs/game_files/levels/ship1/panel1.ncp: Not Found
+Loading: packs/game_files/levels/ship1/shadow2.prm: Found
+Loading: packs/game_files/levels/ship1/shadow2.ncp: Not Found
+Loading: packs/game_files/levels/ship1/vent.prm: Found
+Loading: packs/game_files/levels/ship1/vent.ncp: Found
+Loading: packs/game_files/levels/ship1/bollard.prm: Found
+Loading: packs/game_files/levels/ship1/bollard.ncp: Found
+Loading: packs/game_files/levels/ship1/shadow5.prm: Found
+Loading: packs/game_files/levels/ship1/shadow5.ncp: Not Found
+Loading: packs/game_files/levels/ship1/strut.prm: Found
+Loading: packs/game_files/levels/ship1/strut.ncp: Not Found
+Loading: packs/game_files/levels/ship1/csring.prm: Found
+Loading: packs/game_files/levels/ship1/csring.ncp: Found
+Loading: packs/game_files/levels/ship1/startrope.prm: Found
+Loading: packs/game_files/levels/ship1/startrope.ncp: Found
+Loading: packs/game_files/levels/ship1/ship1.fin: Found
+Loading: packs/game_files/levels/ship1/ship1.ncp: Found
+Loading: packs/game_files/levels/ship1/ship1.lit: Found
+Loading: packs/game_files/levels/ship1/ship1.taz: Found
+Loading: packs/game_files/levels/ship1/ship1.fan: Found
+Loading: packs/game_files/levels/ship1/ship1.fld: Found
+Loading: packs/game_files/levels/ship1/ship1.pan: Found
+Loading: packs/game_files/levels/ship1/ship1.cam: Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/ship1/ship1.tri: Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/ship1/custom_animations.txt: Not Found
+Loading: packs/game_files/levels/ship1/ship1.fob: Found
+Loading: packs/game_files/wavs/ship/wash.wav: Found
+Loading: packs/game_files/levels/ship1/sky_ft.bmp: Found
+Loading: packs/game_files/levels/ship1/sky_rt.bmp: Found
+Loading: packs/game_files/levels/ship1/sky_bk.bmp: Found
+Loading: packs/game_files/levels/ship1/sky_lt.bmp: Found
+Loading: packs/game_files/levels/ship1/sky_tp.bmp: Found
+Loading: packs/game_files/levels/ship1/sky_bt.bmp: Found
+Loading: packs/game_files/models/poolwater.m: Found
+Loading: packs/game_files/models/poolwater.hul: Not Found
+Loading: packs/game_files/models/poolwater.ncp: Not Found
+Loading: packs/game_files/levels/ship1/water.bmp: Found
+Loading: packs/game_files/levels/ship1/water.bmq: Found
+Loading: packs/game_files/wavs/ship/intamb1.wav: Found
+Loading: packs/game_files/models/beachball.m: Found
+Loading: packs/game_files/models/beachball.hul: Not Found
+Loading: packs/game_files/models/beachball.ncp: Not Found
+Loading: packs/game_files/wavs/beachball.wav: Found
+Loading: packs/game_files/wavs/ship/seagulls.wav: Found
+Loading: packs/game_files/cars/r5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/r5/car.bmp: Found
+Loading: packs/game_files/cars/r5/car.bmq: Found
+Loading: packs/game_files/cars/r5/body.prm: Found
+Loading: packs/game_files/cars/r5/wheelfl.prm: Found
+Loading: packs/game_files/cars/r5/wheelfr.prm: Found
+Loading: packs/game_files/cars/r5/wheelbl.prm: Found
+Loading: packs/game_files/cars/r5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/r5/hull.hul: Found
+Loading: packs/game_files/cars/sgt/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/sgt/car.bmp: Found
+Loading: packs/game_files/cars/sgt/car.bmq: Found
+Loading: packs/game_files/cars/sgt/body.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfr.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbr.prm: Found
+Loading: packs/game_files/cars/sgt/axle.prm: Found
+Loading: packs/game_files/cars/sgt/radar.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/sgt/hull.hul: Found
+Loading: packs/game_files/cars/flag/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/flag/car.bmp: Found
+Loading: packs/game_files/cars/flag/car.bmq: Found
+Loading: packs/game_files/cars/flag/body.prm: Found
+Loading: packs/game_files/cars/flag/wheelfl.prm: Found
+Loading: packs/game_files/cars/flag/wheelfr.prm: Found
+Loading: packs/game_files/cars/flag/wheelbl.prm: Found
+Loading: packs/game_files/cars/flag/wheelbr.prm: Found
+Loading: packs/game_files/cars/flag/spring.prm: Found
+Loading: packs/game_files/cars/flag/axle.prm: Found
+Loading: packs/game_files/cars/flag/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/flag/hull.hul: Found
+Loading: packs/game_files/cars/tc2/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc2/car.bmp: Found
+Loading: packs/game_files/cars/tc2/car.bmq: Found
+Loading: packs/game_files/cars/tc2/body.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc2/hull.hul: Found
+Loading: packs/game_files/cars/tc5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc5/car.bmp: Found
+Loading: packs/game_files/cars/tc5/car.bmq: Found
+Loading: packs/game_files/cars/tc5/body.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc5/hull.hul: Found
+Loading: packs/game_files/cars/adeon/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/adeon/car.bmp: Found
+Loading: packs/game_files/cars/adeon/car.bmq: Found
+Loading: packs/game_files/cars/adeon/body.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfr.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/adeon/hull.hul: Found
+Loading: packs/game_files/cars/tc3/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc3/car.bmp: Found
+Loading: packs/game_files/cars/tc3/car.bmq: Found
+Loading: packs/game_files/cars/tc3/body.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc3/hull.hul: Found
+Loading: packs/game_files/cars/tc1/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc1/car.bmp: Found
+Loading: packs/game_files/cars/tc1/car.bmq: Found
+Loading: packs/game_files/cars/tc1/body.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc1/hull.hul: Found
+Loading: packs/game_files/redbook/track03.wav: Not Found
+Loading: packs/soundtrack/redbook/track03.ogg: Found
+Loading: [End Level Load] (1521 ms)
+Loading: profiles/rvgl.ini: Found
+Loading: profiles/tammam/profile.ini: Found
+Loading: profiles/tammam/nhood1.level: Found
+Loading: profiles/tammam/market2.level: Found
+Loading: profiles/tammam/muse2.level: Found
+Loading: profiles/tammam/garden1.level: Found
+Loading: profiles/tammam/roof.level: Found
+Loading: profiles/tammam/toylite.level: Found
+Loading: profiles/tammam/wild_west1.level: Found
+Loading: profiles/tammam/toy2.level: Found
+Loading: profiles/tammam/nhood2.level: Found
+Loading: profiles/tammam/ship1.level: Found
+Loading: profiles/tammam/muse1.level: Found
+Loading: profiles/tammam/market1.level: Found
+Loading: profiles/tammam/wild_west2.level: Found
+Loading: profiles/tammam/ship2.level: Found
+Loading: profiles/tammam/stunts.stunt: Found
+Loading: [Begin Level Load]
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
+Loading: packs/game_files/levels/muse1/muse1.pan: Found
+Loading: packs/game_files/gfx/loadlevel1.bmp: Found
+Loading: packs/game_files/gfx/loadlevel2.bmp: Found
+Loading: packs/game_files/gfx/loadlevel3.bmp: Found
+Loading: packs/game_files/gfx/loadlevel4.bmp: Found
+Loading: packs/game_files/levels/muse1/muse1.inf: Found
+Loading: packs/game_files/levels/muse1/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/game_files/levels/muse1/muse1a.bmp: Found
+Loading: packs/game_files/levels/muse1/muse1a.bmq: Found
+Loading: packs/game_files/levels/muse1/muse1b.bmp: Found
+Loading: packs/game_files/levels/muse1/muse1b.bmq: Found
+Loading: packs/game_files/levels/muse1/muse1c.bmp: Found
+Loading: packs/game_files/levels/muse1/muse1c.bmq: Found
+Loading: packs/game_files/levels/muse1/muse1d.bmp: Found
+Loading: packs/game_files/levels/muse1/muse1d.bmq: Found
+Loading: packs/game_files/levels/muse1/muse1e.bmp: Found
+Loading: packs/game_files/levels/muse1/muse1e.bmq: Found
+Loading: packs/game_files/levels/muse1/muse1f.bmp: Found
+Loading: packs/game_files/levels/muse1/muse1f.bmq: Found
+Warning: Could not find texture: 'levels/muse1/muse1g.bmp'
+Warning: Could not find texture: 'levels/muse1/muse1h.bmp'
+Warning: Could not find texture: 'levels/muse1/muse1i.bmp'
+Warning: Could not find texture: 'levels/muse1/muse1j.bmp'
+Loading: packs/rvgl_assets/levels/muse1/muse1.w: Found
+Loading: packs/game_files/levels/muse1/muse1.vis: Found
+World: Cubes 27  Buffers 690  Groups 169
+Loading: packs/game_files/levels/muse1/muse1.rim: Found
+Loading: packs/game_files/levels/muse1/firext.prm: Found
+Loading: packs/game_files/levels/muse1/firext.ncp: Found
+Loading: packs/game_files/levels/muse1/tricer.prm: Found
+Loading: packs/game_files/levels/muse1/tricer.ncp: Found
+Loading: packs/game_files/levels/muse1/handle.prm: Found
+Loading: packs/game_files/levels/muse1/handle.ncp: Found
+Loading: packs/game_files/levels/muse1/mop.prm: Found
+Loading: packs/game_files/levels/muse1/mop.ncp: Found
+Loading: packs/game_files/levels/muse1/egypi3.prm: Found
+Loading: packs/game_files/levels/muse1/egypi3.ncp: Found
+Loading: packs/game_files/levels/muse1/invisbox.prm: Found
+Loading: packs/game_files/levels/muse1/invisbox.ncp: Found
+Loading: packs/game_files/levels/muse1/egypi2.prm: Found
+Loading: packs/game_files/levels/muse1/egypi2.ncp: Found
+Loading: packs/game_files/levels/muse1/amon.prm: Found
+Loading: packs/game_files/levels/muse1/amon.ncp: Found
+Loading: packs/game_files/levels/muse1/glasl.prm: Found
+Loading: packs/game_files/levels/muse1/glasl.ncp: Found
+Loading: packs/game_files/levels/muse1/stand.prm: Found
+Loading: packs/game_files/levels/muse1/stand.ncp: Found
+Loading: packs/game_files/levels/muse1/rope.prm: Found
+Loading: packs/game_files/levels/muse1/rope.ncp: Found
+Loading: packs/game_files/levels/muse1/sign4.prm: Found
+Loading: packs/game_files/levels/muse1/sign4.ncp: Found
+Loading: packs/game_files/levels/muse1/sign1.prm: Found
+Loading: packs/game_files/levels/muse1/sign1.ncp: Found
+Loading: packs/game_files/levels/muse1/holder2.prm: Found
+Loading: packs/game_files/levels/muse1/holder2.ncp: Found
+Loading: packs/game_files/levels/muse1/glasr.prm: Found
+Loading: packs/game_files/levels/muse1/glasr.ncp: Found
+Loading: packs/game_files/levels/muse1/holder.prm: Found
+Loading: packs/game_files/levels/muse1/holder.ncp: Found
+Loading: packs/game_files/levels/muse1/bin.prm: Found
+Loading: packs/game_files/levels/muse1/bin.ncp: Found
+Loading: packs/game_files/levels/muse1/museramp.prm: Found
+Loading: packs/game_files/levels/muse1/museramp.ncp: Found
+Loading: packs/game_files/levels/muse1/pot.prm: Found
+Loading: packs/game_files/levels/muse1/pot.ncp: Found
+Loading: packs/game_files/levels/muse1/signgo.prm: Found
+Loading: packs/game_files/levels/muse1/signgo.ncp: Found
+Loading: packs/game_files/levels/muse1/glassl.prm: Found
+Loading: packs/game_files/levels/muse1/glassl.ncp: Found
+Loading: packs/game_files/levels/muse1/egypi1.prm: Found
+Loading: packs/game_files/levels/muse1/egypi1.ncp: Found
+Loading: packs/game_files/levels/muse1/kickplate.prm: Found
+Loading: packs/game_files/levels/muse1/kickplate.ncp: Found
+Loading: packs/game_files/levels/muse1/glasfish.prm: Found
+Loading: packs/game_files/levels/muse1/glasfish.ncp: Found
+Loading: packs/game_files/levels/muse1/screen.prm: Found
+Loading: packs/game_files/levels/muse1/screen.ncp: Not Found
+Loading: packs/game_files/levels/muse1/skull.prm: Found
+Loading: packs/game_files/levels/muse1/skull.ncp: Found
+Loading: packs/game_files/levels/muse1/glas05.prm: Found
+Loading: packs/game_files/levels/muse1/glas05.ncp: Found
+Loading: packs/game_files/levels/muse1/bench.prm: Found
+Loading: packs/game_files/levels/muse1/bench.ncp: Found
+Loading: packs/game_files/levels/muse1/glas02.prm: Found
+Loading: packs/game_files/levels/muse1/glas02.ncp: Found
+Loading: packs/game_files/levels/muse1/helmet.prm: Found
+Loading: packs/game_files/levels/muse1/helmet.ncp: Found
+Loading: packs/game_files/levels/muse1/cabine.prm: Found
+Loading: packs/game_files/levels/muse1/cabine.ncp: Found
+Loading: packs/game_files/levels/muse1/shield.prm: Found
+Loading: packs/game_files/levels/muse1/shield.ncp: Found
+Loading: packs/game_files/levels/muse1/allos.prm: Found
+Loading: packs/game_files/levels/muse1/allos.ncp: Found
+Loading: packs/game_files/levels/muse1/sign3.prm: Found
+Loading: packs/game_files/levels/muse1/sign3.ncp: Found
+Loading: packs/game_files/levels/muse1/4x4.prm: Found
+Loading: packs/game_files/levels/muse1/4x4.ncp: Not Found
+Loading: packs/game_files/levels/muse1/dog.prm: Found
+Loading: packs/game_files/levels/muse1/dog.ncp: Found
+Loading: packs/game_files/levels/muse1/claw.prm: Found
+Loading: packs/game_files/levels/muse1/claw.ncp: Found
+Loading: packs/game_files/levels/muse1/glas01.prm: Found
+Loading: packs/game_files/levels/muse1/glas01.ncp: Found
+Loading: packs/game_files/levels/muse1/scarab.prm: Found
+Loading: packs/game_files/levels/muse1/scarab.ncp: Found
+Loading: packs/game_files/levels/muse1/trilo.prm: Found
+Loading: packs/game_files/levels/muse1/trilo.ncp: Found
+Loading: packs/game_files/levels/muse1/rail2.prm: Found
+Loading: packs/game_files/levels/muse1/rail2.ncp: Found
+Loading: packs/game_files/levels/muse1/rail.prm: Found
+Loading: packs/game_files/levels/muse1/rail.ncp: Found
+Loading: packs/game_files/levels/muse1/rail3.prm: Found
+Loading: packs/game_files/levels/muse1/rail3.ncp: Found
+Loading: packs/game_files/levels/muse1/armour.prm: Found
+Loading: packs/game_files/levels/muse1/armour.ncp: Found
+Loading: packs/game_files/levels/muse1/fish.prm: Found
+Loading: packs/game_files/levels/muse1/fish.ncp: Not Found
+Loading: packs/game_files/levels/muse1/strut.prm: Found
+Loading: packs/game_files/levels/muse1/strut.ncp: Found
+Loading: packs/game_files/levels/muse1/sword.prm: Found
+Loading: packs/game_files/levels/muse1/sword.ncp: Found
+Loading: packs/game_files/levels/muse1/sign2.prm: Found
+Loading: packs/game_files/levels/muse1/sign2.ncp: Found
+Loading: packs/game_files/levels/muse1/glas04.prm: Found
+Loading: packs/game_files/levels/muse1/glas04.ncp: Found
+Loading: packs/game_files/levels/muse1/mummy.prm: Found
+Loading: packs/game_files/levels/muse1/mummy.ncp: Found
+Loading: packs/game_files/levels/muse1/glas03.prm: Found
+Loading: packs/game_files/levels/muse1/glas03.ncp: Found
+Loading: packs/game_files/levels/muse1/muse1.fin: Found
+Loading: packs/rvgl_assets/levels/muse1/muse1.ncp: Found
+Loading: packs/game_files/levels/muse1/muse1.lit: Found
+Loading: packs/game_files/levels/muse1/muse1.taz: Found
+Loading: packs/game_files/levels/muse1/muse1.fan: Found
+Loading: packs/game_files/levels/muse1/muse1.fld: Found
+Loading: packs/game_files/levels/muse1/muse1.pan: Found
+Loading: packs/game_files/levels/muse1/muse1.cam: Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/muse1/muse1.tri: Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/muse1/custom_animations.txt: Not Found
+Loading: packs/game_files/levels/muse1/muse1.fob: Found
+Loading: packs/game_files/wavs/muse/laserhum.wav: Found
+Loading: packs/game_files/wavs/muse/alarm2.wav: Found
+Loading: packs/game_files/wavs/muse/largdoor.wav: Found
+Loading: packs/game_files/cars/r5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/r5/car.bmp: Found
+Loading: packs/game_files/cars/r5/car.bmq: Found
+Loading: packs/game_files/cars/r5/body.prm: Found
+Loading: packs/game_files/cars/r5/wheelfl.prm: Found
+Loading: packs/game_files/cars/r5/wheelfr.prm: Found
+Loading: packs/game_files/cars/r5/wheelbl.prm: Found
+Loading: packs/game_files/cars/r5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/r5/hull.hul: Found
+Loading: packs/game_files/cars/sgt/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/sgt/car.bmp: Found
+Loading: packs/game_files/cars/sgt/car.bmq: Found
+Loading: packs/game_files/cars/sgt/body.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelfr.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbl.prm: Found
+Loading: packs/game_files/cars/sgt/wheelbr.prm: Found
+Loading: packs/game_files/cars/sgt/axle.prm: Found
+Loading: packs/game_files/cars/sgt/radar.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/sgt/hull.hul: Found
+Loading: packs/game_files/cars/flag/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/flag/car.bmp: Found
+Loading: packs/game_files/cars/flag/car.bmq: Found
+Loading: packs/game_files/cars/flag/body.prm: Found
+Loading: packs/game_files/cars/flag/wheelfl.prm: Found
+Loading: packs/game_files/cars/flag/wheelfr.prm: Found
+Loading: packs/game_files/cars/flag/wheelbl.prm: Found
+Loading: packs/game_files/cars/flag/wheelbr.prm: Found
+Loading: packs/game_files/cars/flag/spring.prm: Found
+Loading: packs/game_files/cars/flag/axle.prm: Found
+Loading: packs/game_files/cars/flag/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/flag/hull.hul: Found
+Loading: packs/game_files/cars/tc2/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc2/car.bmp: Found
+Loading: packs/game_files/cars/tc2/car.bmq: Found
+Loading: packs/game_files/cars/tc2/body.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc2/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc2/hull.hul: Found
+Loading: packs/game_files/cars/tc5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc5/car.bmp: Found
+Loading: packs/game_files/cars/tc5/car.bmq: Found
+Loading: packs/game_files/cars/tc5/body.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc5/hull.hul: Found
+Loading: packs/game_files/cars/adeon/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/adeon/car.bmp: Found
+Loading: packs/game_files/cars/adeon/car.bmq: Found
+Loading: packs/game_files/cars/adeon/body.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfr.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/adeon/hull.hul: Found
+Loading: packs/game_files/cars/tc3/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc3/car.bmp: Found
+Loading: packs/game_files/cars/tc3/car.bmq: Found
+Loading: packs/game_files/cars/tc3/body.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc3/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc3/hull.hul: Found
+Loading: packs/game_files/cars/tc1/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc1/car.bmp: Found
+Loading: packs/game_files/cars/tc1/car.bmq: Found
+Loading: packs/game_files/cars/tc1/body.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc1/hull.hul: Found
+Loading: packs/game_files/redbook/track03.wav: Not Found
+Loading: packs/soundtrack/redbook/track03.ogg: Found
+Loading: [End Level Load] (1418 ms)
+Loading: packs/game_files/redbook/track04.wav: Not Found
+Loading: packs/soundtrack/redbook/track04.ogg: Found
+Loading: [Begin Level Load]
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
+Loading: packs/game_files/levels/frontend/frontend.pan: Found
+Loading: packs/game_files/gfx/loadlevel1.bmp: Found
+Loading: packs/game_files/gfx/loadlevel2.bmp: Found
+Loading: packs/game_files/gfx/loadlevel3.bmp: Found
+Loading: packs/game_files/gfx/loadlevel4.bmp: Found
+Loading: packs/rvgl_assets/levels/frontend/frontend.inf: Found
+Loading: packs/game_files/levels/frontend/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envfront.bmp: Found
+Loading: packs/game_files/gfx/envfront.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/game_files/levels/frontend/frontenda.bmp: Found
+Loading: packs/game_files/levels/frontend/frontenda.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendb.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendb.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendc.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendc.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendd.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendd.bmq: Found
+Loading: packs/game_files/levels/frontend/frontende.bmp: Found
+Loading: packs/game_files/levels/frontend/frontende.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendf.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendf.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendg.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendg.bmq: Found
+Warning: Could not find texture: 'levels/frontend/frontendh.bmp'
+Warning: Could not find texture: 'levels/frontend/frontendi.bmp'
+Warning: Could not find texture: 'levels/frontend/frontendj.bmp'
+Loading: packs/rvgl_assets/levels/frontend/frontend.w: Found
+Loading: packs/game_files/levels/frontend/frontend.vis: Found
+World: Cubes 10  Buffers 33  Groups 33
+Loading: packs/game_files/levels/frontend/frontend.rim: Found
+Loading: packs/game_files/levels/frontend/plain.prm: Found
+Loading: packs/game_files/levels/frontend/plain.ncp: Not Found
+Loading: packs/game_files/levels/frontend/track.prm: Found
+Loading: packs/game_files/levels/frontend/track.ncp: Not Found
+Loading: packs/game_files/levels/frontend/magstand.prm: Found
+Loading: packs/game_files/levels/frontend/magstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box04.prm: Found
+Loading: packs/game_files/levels/frontend/box04.ncp: Not Found
+Loading: packs/game_files/levels/frontend/light.prm: Found
+Loading: packs/game_files/levels/frontend/light.ncp: Not Found
+Loading: packs/game_files/levels/frontend/pangacard.prm: Found
+Loading: packs/game_files/levels/frontend/pangacard.ncp: Found
+Loading: packs/game_files/levels/frontend/helbladesmall.prm: Found
+Loading: packs/game_files/levels/frontend/helbladesmall.ncp: Not Found
+Loading: packs/game_files/levels/frontend/hellbody.prm: Found
+Loading: packs/game_files/levels/frontend/hellbody.ncp: Not Found
+Loading: packs/game_files/levels/frontend/helbladebig.prm: Found
+Loading: packs/game_files/levels/frontend/helbladebig.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box03.prm: Found
+Loading: packs/game_files/levels/frontend/box03.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box5.prm: Found
+Loading: packs/game_files/levels/frontend/box5.ncp: Not Found
+Loading: packs/game_files/levels/frontend/salebin.prm: Found
+Loading: packs/game_files/levels/frontend/salebin.ncp: Not Found
+Loading: packs/game_files/levels/frontend/posterstand.prm: Found
+Loading: packs/game_files/levels/frontend/posterstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/ufostand.prm: Found
+Loading: packs/game_files/levels/frontend/ufostand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/podium.prm: Found
+Loading: packs/game_files/levels/frontend/podium.ncp: Found
+Loading: packs/game_files/levels/frontend/largemagstand.prm: Found
+Loading: packs/game_files/levels/frontend/largemagstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/bballbox.prm: Found
+Loading: packs/game_files/levels/frontend/bballbox.ncp: Not Found
+Loading: packs/game_files/levels/frontend/smallscreen.prm: Found
+Loading: packs/game_files/levels/frontend/smallscreen.ncp: Not Found
+Loading: packs/game_files/levels/frontend/chicks.prm: Found
+Loading: packs/game_files/levels/frontend/chicks.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup01.prm: Found
+Loading: packs/game_files/levels/frontend/cup01.ncp: Not Found
+Loading: packs/game_files/levels/frontend/posterstand2.prm: Found
+Loading: packs/game_files/levels/frontend/posterstand2.ncp: Not Found
+Loading: packs/game_files/levels/frontend/tvstand.prm: Found
+Loading: packs/game_files/levels/frontend/tvstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box02.prm: Found
+Loading: packs/game_files/levels/frontend/box02.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box01.prm: Found
+Loading: packs/game_files/levels/frontend/box01.ncp: Not Found
+Loading: packs/game_files/levels/frontend/hellsb.prm: Found
+Loading: packs/game_files/levels/frontend/hellsb.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockcase.prm: Found
+Loading: packs/game_files/levels/frontend/clockcase.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box05.prm: Found
+Loading: packs/game_files/levels/frontend/box05.ncp: Not Found
+Loading: packs/game_files/levels/frontend/frontend.fin: Found
+Loading: packs/game_files/levels/frontend/frontend.ncp: Found
+Loading: packs/game_files/levels/frontend/frontend.lit: Found
+Loading: packs/game_files/levels/frontend/frontend.taz: Found
+Loading: packs/game_files/levels/frontend/frontend.fan: Found
+Loading: packs/game_files/levels/frontend/frontend.fld: Found
+Loading: packs/game_files/levels/frontend/frontend.pan: Found
+Loading: packs/game_files/levels/frontend/frontend.cam: Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/frontend/frontend.tri: Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/frontend/custom_animations.txt: Not Found
+Loading: packs/rvgl_dcpack/levels/frontend/frontend.fob: Found
+Loading: packs/game_files/levels/frontend/smallscreen.m: Found
+Loading: packs/game_files/levels/frontend/smallscreen.hul: Not Found
+Loading: packs/game_files/levels/frontend/smallscreen.ncp: Not Found
+Loading: packs/game_files/levels/frontend/namestand.m: Found
+Loading: packs/game_files/levels/frontend/namestand.hul: Not Found
+Loading: packs/game_files/levels/frontend/namestand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/namewheel.m: Found
+Loading: packs/game_files/levels/frontend/namewheel.hul: Not Found
+Loading: packs/game_files/levels/frontend/namewheel.ncp: Not Found
+Loading: packs/game_files/levels/frontend/carbox.m: Found
+Loading: packs/game_files/levels/frontend/carbox.hul: Not Found
+Loading: packs/game_files/levels/frontend/carbox.ncp: Not Found
+Loading: packs/game_files/levels/frontend/plainbox.m: Found
+Loading: packs/game_files/levels/frontend/plainbox.hul: Not Found
+Loading: packs/game_files/levels/frontend/plainbox.ncp: Not Found
+Loading: packs/game_files/models/cone.m: Found
+Loading: packs/game_files/models/cone.hul: Found
+Loading: packs/game_files/levels/frontend/bigscreen.m: Found
+Loading: packs/game_files/levels/frontend/bigscreen.hul: Not Found
+Loading: packs/game_files/levels/frontend/bigscreen.ncp: Not Found
 Loading: packs/game_files/gfx/muse1.bmp: Found
 Loading: packs/game_files/gfx/muse1.bmq: Found
-Loading: packs/game_files/levels/muse1/muse1.pan: Found
+Loading: packs/game_files/levels/frontend/clockbody.m: Found
+Loading: packs/game_files/levels/frontend/clockbody.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockbody.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockhandsmall.m: Found
+Loading: packs/game_files/levels/frontend/clockhandsmall.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockhandsmall.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockhandlarge.m: Found
+Loading: packs/game_files/levels/frontend/clockhandlarge.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockhandlarge.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockdisc.m: Found
+Loading: packs/game_files/levels/frontend/clockdisc.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockdisc.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup04.m: Found
+Loading: packs/game_files/levels/frontend/cup04.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup04.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup02.m: Found
+Loading: packs/game_files/levels/frontend/cup02.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup02.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup01.m: Found
+Loading: packs/game_files/levels/frontend/cup01.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup01.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup03.m: Found
+Loading: packs/game_files/levels/frontend/cup03.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup03.ncp: Not Found
+Loading: packs/game_files/cars/r5/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/r5/car.bmp: Found
+Loading: packs/game_files/cars/r5/car.bmq: Found
+Loading: packs/game_files/cars/r5/body.prm: Found
+Loading: packs/game_files/cars/r5/wheelfl.prm: Found
+Loading: packs/game_files/cars/r5/wheelfr.prm: Found
+Loading: packs/game_files/cars/r5/wheelbl.prm: Found
+Loading: packs/game_files/cars/r5/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/r5/hull.hul: Found
+Loading: packs/game_files/cars/adeon/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/adeon/car.bmp: Found
+Loading: packs/game_files/cars/adeon/car.bmq: Found
+Loading: packs/game_files/cars/adeon/body.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelfr.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbl.prm: Found
+Loading: packs/game_files/cars/adeon/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/adeon/hull.hul: Found
+Loading: packs/game_files/cars/tc1/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/tc1/car.bmp: Found
+Loading: packs/game_files/cars/tc1/car.bmq: Found
+Loading: packs/game_files/cars/tc1/body.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelfr.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbl.prm: Found
+Loading: packs/game_files/cars/tc1/wheelbr.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/tc1/hull.hul: Found
+Loading: packs/game_files/redbook/track13.wav: Not Found
+Loading: packs/soundtrack/redbook/track13.ogg: Found
+Loading: [End Level Load] (1128 ms)
+Loading: packs/game_files/levels/frontend/frontend.txt: Not Found
+Loading: packs/rvgl_assets/cars/wincar/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/wincar/car.bmp: Found
+Loading: packs/game_files/cars/wincar/car.bmq: Found
+Loading: packs/rvgl_assets/cars/wincar/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/wincar/shadow.bmq: Found
+Loading: packs/game_files/cars/wincar/body.prm: Found
+Loading: packs/game_files/cars/wincar/wheelfl.prm: Found
+Loading: packs/game_files/cars/wincar/wheelfr.prm: Found
+Loading: packs/game_files/cars/wincar/wheelbl.prm: Found
+Loading: packs/game_files/cars/wincar/wheelbr.prm: Found
+Loading: packs/game_files/cars/wincar/key.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/wincar/hull.hul: Found
+Loading: packs/rvgl_assets/cars/wincar2/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/wincar2/car.bmp: Found
+Loading: packs/game_files/cars/wincar2/car.bmq: Found
+Loading: packs/rvgl_assets/cars/wincar2/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/wincar2/shadow.bmq: Found
+Loading: packs/game_files/cars/wincar2/body.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelfl.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelfr.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelbl.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelbr.prm: Found
+Loading: packs/game_files/cars/wincar2/key.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/wincar2/hull.hul: Found
+Loading: packs/rvgl_assets/cars/wincar3/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/wincar3/car.bmp: Found
+Loading: packs/game_files/cars/wincar3/car.bmq: Found
+Loading: packs/rvgl_assets/cars/wincar3/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/wincar3/shadow.bmq: Found
+Loading: packs/game_files/cars/wincar3/body.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelfl.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelfr.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelbl.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelbr.prm: Found
+Loading: packs/game_files/cars/wincar3/key.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/wincar3/hull.hul: Found
+Loading: packs/rvgl_assets/cars/misc/carbox1.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox2.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox3.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox4.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox5.bmp: Found
+Loading: packs/game_files/redbook/track02.wav: Not Found
+Loading: packs/soundtrack/redbook/track02.ogg: Found
