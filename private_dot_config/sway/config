@@ -317,9 +317,6 @@ exec swaync  >/dev/null 2>&1
 # top bar
 #exec sleep 0.6 && waybar  >/dev/null 2>&1
 
-# keep clipboard content
-exec wl-clip-persist --clipboard regular --reconnect-tries 0  >/dev/null 2>&1
-
 # clipboard content manager
 exec wl-paste --type text --watch cliphist store  >/dev/null 2>&1
 
