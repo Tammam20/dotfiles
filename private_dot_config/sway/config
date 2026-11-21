@@ -276,7 +276,7 @@ bindsym $mod+r mode "resize"
     bindsym XF86SelectiveScreenshot exec wf-recorder -g "$(slurp)" -f $HOME/Videos/$(date +'video_%Y-%m-%d-%H%M%S.mkv')
 
 	# sleep on lid close
-	bindswitch --reload --locked lid:on exec sudo zzz
+	#bindswitch --reload --locked lid:on exec sudo zzz
 
 	# sleep with fn+4
 	bindsym --locked XF86Sleep exec sudo zzz
