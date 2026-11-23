@@ -1,5 +1,8 @@
 {
-  "lsp.server": "nix=nixd",
+  "lsp.server": "nix=nixd, python=pylsp",
   "lsp.nix": "{\"nixpkgs\":{\"expr\":\"import <nixpkgs> { }\"},\"options\":{\"nixos\":{\"expr\":\"(builtins.getFlake \\\"/etc/nixos\\\").nixosConfigurations.<hostname>.options\"}}}",
-  "clipboard": "terminal"
+  "clipboard": "terminal",
+  "lsp.formatOnSave": true,
+  "lsp.tabcompletion": true,
+  "lsp.autocompleteDetails": true
 }   
