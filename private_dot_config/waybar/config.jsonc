@@ -139,7 +139,7 @@
     "clock": {
       "format": "{:%I:%M %p} ",
       "format-alt": "{:%A, %b %d} ",
-      "tooltip-format": "{:%Y}",
+      "tooltip-format": "{:%F}",
       "calendar": {
         "mode": "year",
         "mode-mon-col": 3,
