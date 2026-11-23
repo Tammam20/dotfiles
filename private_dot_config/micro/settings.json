@@ -4,5 +4,5 @@
   "clipboard": "terminal",
   "lsp.formatOnSave": true,
   "lsp.tabcompletion": true,
-  "lsp.autocompleteDetails": true
+  "lsp.autocompleteDetails": false
 }   
