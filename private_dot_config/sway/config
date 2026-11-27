@@ -57,6 +57,9 @@ set $term foot
 # Your preferred application launcher
 set $menu wmenu-run
 
+# preferred browser
+set $browser chromium
+
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in @datadir@/backgrounds/sway/)
@@ -113,7 +116,7 @@ set $menu wmenu-run
 #
     # Start a terminal
     bindsym $mod+Return exec $term
-    bindsym $mod+Shift+Return exec brave-origin
+    bindsym $mod+Shift+Return exec $browser
 
     # Kill focused window
     bindsym $mod+Shift+q kill
@@ -279,7 +282,7 @@ bindsym $mod+r mode "resize"
 	#bindswitch --reload --locked lid:on exec sudo zzz
 
 	# sleep with fn+4
-	bindsym --locked XF86Sleep exec sudo zzz
+	#bindsym --locked XF86Sleep exec sudo zzz
 
 	# settings
 	bindsym --locked XF86Tools exec dconf-editor
@@ -292,6 +295,9 @@ bindsym $mod+r mode "resize"
 
 	# search(delete)
 	bindsym $mod+Alt+V exec cliphist list | wmenu | cliphist delete
+
+	# Notifications
+	bindsym $mod+Shift+N exec swaync-client -t -sw
 
 exec dbus-update-activation-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=sway  >/dev/null 2>&1
 
