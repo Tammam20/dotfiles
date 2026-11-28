@@ -18,44 +18,11 @@
         "tray",
         "network",
         "pulseaudio",
-  //      "cpu",
-//	      "custom/fan",
-//        "temperature",
 	      "battery",
         "backlight",
         "clock",
         "custom/notification"
-       // "custom/power"
     ],
-   // "ext/workspaces": {
-     // "format": "{icon}",
-     // "ignore-hidden": true,
-      // "active-only":true,
-     // "on-click": "activate",
-     // "on-click-right": "deactivate",
-     // "on-scroll-up":"mmsg -d viewtoleft_have_client",
-     // "on-scroll-down":"mmsg -d viewtoright_have_client",
-     // "sort-by-id": true
-      // "format-icons": {
-      //   "1": "",
-      //   "2": "",
-      //   "3": "",
-      //   "4": "",
-      //   "5": "",
-      //   "urgent": "",
-      //   "active": "",
-      //   "default": ""
-      // },
-   // },
-    //"dwl/tags": {
-     // "num-tags": 9,
-      //"hide-vacant": true
-      // "tag-labels": ["一", "二", "三", "四", "五", "六", "七", "八", "九"]
-   // },
-    //"dwl/window": {
-      //  "format": "[{layout}]{title}",
-       // "on-click":"bash ~/.config/mango/scripts/screenshot.sh"
-   // },
     "custom/notification": {
       "tooltip": false,
       "format": "{icon}",
@@ -76,40 +43,7 @@
       "on-click-right": "swaync-client -d -sw",
       "escape": true
     },
-  //  "keyboard-state": {
-    //    "numlock": false,
-      //  "scrolllock": false,
-       // "capslock": true,
-       // "format": "{icon}",
-      //  "format-icons": {
-        //    "locked": "Capslock"
-    //        "unlocked": ""
-      //  }
-  //  },
-   // "cpu": {
-     // "interval": 2,
-     // "format": " {load}%"
-    //},
-	 "temperature": {
-        // "thermal-zone": 2,
-        // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
-        "critical-threshold": 80,
-        // "format-critical": "{temperatureC}°C {icon}",
-        "format": "{temperatureC}°C {icon}",
-        "format-icons": ""
-    },
-    "wlr/taskbar": {
-      "format": "{icon}",
-      "icon-size": 22,
-      "all-outputs": false,
-      "tooltip-format": "{title}",
-      "markup": true,
-      "on-click": "activate",
-      "on-click-right": "close",
-      "ignore-list": ["Rofi", "wofi"]
-    },
    "backlight": {
-        // "device": "acpi_video1",
         "format": "{icon} {percent}%",
         "format-icons": ["", "", "", "", "", "", "", "", ""]
     },
@@ -138,30 +72,11 @@
     },
     "clock": {
       "format": " {:%F %B/%A |  %I:%M %p}",
-      //"format-alt": "{:%A, %b %d} ",
-      //"tooltip-format": "{:%F}",
-      "calendar": {
-        "mode": "year",
-        "mode-mon-col": 3,
-        "weeks-pos": "right",
-        "on-scroll": 1,
-        "format": {
-          "months": "<span color='#ffead3'><b>{}</b></span>",
-          "days": "<span color='#ecc6d9'><b>{}</b></span>",
-          "weeks": "<span color='#99ffdd'><b>W{}</b></span>",
-          "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
-          "today": "<span color='#ff6699'><b><u>{}</u></b></span>"
-        }
-      }
     },
     "pulseaudio": {
         "format": "{icon}   {volume}%",
         "tooltip": false,
         "format-muted": " Muted",
-        //"on-click": "pamixer -t",
-        //"on-scroll-up": "pamixer -i 2",
-        //"on-scroll-down": "pamixer -d 2",
-       // "scroll-step": 5,
         "format-icons": {
             "headphone": "",
             "hands-free": "",
@@ -171,21 +86,6 @@
             "car": "",
             "default": ["", "", ""]
         }
-    },
-//    "custom/power": {
-      //  "format": "",
-    //    "tooltip": false,
-  //      "on-click": "wlogout"
-//    },
-    "pulseaudio#microphone": {
-        "format": "{format_source}",
-        "format-source": " {volume}%",
-        "tooltip": false,
-        "format-source-muted": " Muted"
-        //"on-click": "pamixer --default-source -t",
-        //"on-scroll-up": "pamixer --default-source -i 2",
-        //"on-scroll-down": "pamixer --default-source -d 2",
-        //"scroll-step": 5
     },
 
     "battery": {
@@ -198,15 +98,6 @@
         "format-full": "{icon} {capacity}%",
         "format-charging": "󰃨 {capacity}%",
         "format-plugged": " {capacity}%",
-        //"format-alt": "{time} {icon}",
-        // "format-good": "", // An empty format will hide the module
-        // "format-full": "",
         "format-icons": ["", "", "", "", ""]
     },
-
-//    "custom/fan": {
-  //  "exec": "sensors | awk '/fan1:/ {print $2,$3}'",
-   // "format": "{} 󰈐",
-   // "interval": 2
- // }
 }
